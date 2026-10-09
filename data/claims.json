@@ -1,0 +1,546 @@
+[
+  {
+    "id": "claim_0001",
+    "subject_id": "actor_0005",
+    "project_id": "project_escaudain",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Porte politiquement le projet et insiste sur la réindustrialisation, l’emploi et la formation.",
+    "certainty": "high",
+    "status": "reported_in_provided_material",
+    "evidence_ids": [
+      "evidence_0001"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "claim_0002",
+    "subject_id": "actor_0006",
+    "project_id": "project_escaudain",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Défend le projet et précise la montée en puissance progressive des emplois.",
+    "certainty": "high",
+    "status": "reported_in_provided_material",
+    "evidence_ids": [
+      "evidence_0002"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "claim_0003",
+    "subject_id": "actor_0007",
+    "project_id": "project_escaudain",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Met en avant les avantages techniques du site, notamment la proximité du poste de Mastaing et la capacité de raccordement.",
+    "certainty": "high",
+    "status": "reported_in_provided_material",
+    "evidence_ids": [
+      "evidence_0003"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "claim_0004",
+    "subject_id": "actor_0008",
+    "project_id": "project_escaudain",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Choisit le consortium retenu et structure le récit local de reconversion industrielle.",
+    "certainty": "high",
+    "status": "reported_in_provided_material",
+    "evidence_ids": [
+      "evidence_0004"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "claim_0005",
+    "subject_id": "actor_0010",
+    "project_id": "project_escaudain",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Membre du consortium retenu pour le futur campus de data centers d’Escaudain.",
+    "certainty": "high",
+    "status": "reported_in_provided_material",
+    "evidence_ids": [
+      "evidence_0005"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "claim_0006",
+    "subject_id": "actor_0011",
+    "project_id": "project_escaudain",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Membre du consortium retenu avec Brookfield et Data4.",
+    "certainty": "high",
+    "status": "reported_in_provided_material",
+    "evidence_ids": [
+      "evidence_0006"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "claim_0007",
+    "subject_id": "actor_0012",
+    "project_id": "project_escaudain",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Membre du consortium retenu pour développer le campus d’Escaudain.",
+    "certainty": "high",
+    "status": "reported_in_provided_material",
+    "evidence_ids": [
+      "evidence_0007"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "claim_0008",
+    "subject_id": "actor_0013",
+    "project_id": "project_escaudain",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Cité comme ayant répondu à l’appel à manifestation d’intérêt, mais non retenu face au consortium.",
+    "certainty": "high",
+    "status": "reported_in_provided_material",
+    "evidence_ids": [
+      "evidence_0008"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "claim_0009",
+    "subject_id": "actor_0015",
+    "project_id": "project_escaudain",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Acteur clé du raccordement du site, qui figure parmi les sites fast track capables d’accueillir plus de 700 MW.",
+    "certainty": "high",
+    "status": "reported_in_provided_material",
+    "evidence_ids": [
+      "evidence_0009"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "claim_0010",
+    "subject_id": "actor_0016",
+    "project_id": "project_escaudain",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Intervient dans le cadrage national des raccordements et la priorisation des projets.",
+    "certainty": "high",
+    "status": "reported_in_provided_material",
+    "evidence_ids": [
+      "evidence_0010"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "claim_0011",
+    "subject_id": "actor_0018",
+    "project_id": "project_escaudain",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Cité dans des réunions plus larges autour des projets data centers dans le Nord.",
+    "certainty": "high",
+    "status": "reported_in_provided_material",
+    "evidence_ids": [
+      "evidence_0011"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "claim_0012",
+    "subject_id": "actor_0020",
+    "project_id": "project_escaudain",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Associe Escaudain à la politique nationale de sécurisation et d’accélération des data centers.",
+    "certainty": "high",
+    "status": "reported_in_provided_material",
+    "evidence_ids": [
+      "evidence_0012"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "claim_0013",
+    "subject_id": "actor_0021",
+    "project_id": "project_escaudain",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Cité dans le cadrage national d’accompagnement des projets.",
+    "certainty": "high",
+    "status": "reported_in_provided_material",
+    "evidence_ids": [
+      "evidence_0013"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "claim_0014",
+    "subject_id": "actor_0022",
+    "project_id": "project_escaudain",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Partie prenante du dispositif national d’accompagnement des data centers.",
+    "certainty": "high",
+    "status": "reported_in_provided_material",
+    "evidence_ids": [
+      "evidence_0014"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "claim_0015",
+    "subject_id": "actor_0023",
+    "project_id": "project_escaudain",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Acteur de la task force de l’État accompagnant les porteurs de projets.",
+    "certainty": "high",
+    "status": "reported_in_provided_material",
+    "evidence_ids": [
+      "evidence_0015"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "claim_0016",
+    "subject_id": "actor_0024",
+    "project_id": "project_escaudain",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Cité dans le contexte de l’annonce des sites industriels dits « clés en main ».",
+    "certainty": "high",
+    "status": "reported_in_provided_material",
+    "evidence_ids": [
+      "evidence_0016"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "claim_0017",
+    "subject_id": "actor_0026",
+    "project_id": "project_escaudain",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Évoqué pour structurer les futures filières de formation liées au projet.",
+    "certainty": "medium",
+    "status": "reported_in_provided_material",
+    "evidence_ids": [
+      "evidence_0017"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "claim_0018",
+    "subject_id": "actor_0027",
+    "project_id": "project_escaudain",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Acteurs éducatifs mentionnés comme nécessaires pour préparer les compétences du territoire.",
+    "certainty": "medium",
+    "status": "reported_in_provided_material",
+    "evidence_ids": [
+      "evidence_0018"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "claim_0019",
+    "subject_id": "actor_0028",
+    "project_id": "project_escaudain",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Partie prenante citée pour développer les formations adaptées aux métiers du futur campus.",
+    "certainty": "medium",
+    "status": "reported_in_provided_material",
+    "evidence_ids": [
+      "evidence_0019"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "claim_0020",
+    "subject_id": "actor_0042",
+    "project_id": "project_escaudain",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Interroge la valeur ajoutée réelle des projets hyperscale pour les territoires, soulignant leur très faible ratio d'emplois.",
+    "certainty": "high",
+    "status": "reported_in_provided_material",
+    "evidence_ids": [
+      "evidence_0020"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "claim_0021",
+    "subject_id": "actor_0043",
+    "project_id": "project_escaudain",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Investit massivement sur le site de Béthune, densifiant le réseau d'infrastructures dans la région Hauts-de-France.",
+    "certainty": "high",
+    "status": "reported_in_provided_material",
+    "evidence_ids": [
+      "evidence_0021"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "claim_0022",
+    "subject_id": "actor_0045",
+    "project_id": "project_escaudain",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Capitalise politiquement sur les annonces de Choose France pour positionner sa région comme leader européen de l'IA.",
+    "certainty": "high",
+    "status": "reported_in_provided_material",
+    "evidence_ids": [
+      "evidence_0022"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "claim_0023",
+    "subject_id": "actor_0046",
+    "project_id": "project_escaudain",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Insiste sur la fiabilité de son entreprise face aux annonces concurrentes.",
+    "certainty": "high",
+    "status": "reported_in_provided_material",
+    "evidence_ids": [
+      "evidence_0023"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "claim_0024",
+    "subject_id": "actor_0047",
+    "project_id": "project_escaudain",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "A soutenu le projet via l'initiative Choose France et a négocié d'autres mégaprojets régionaux.",
+    "certainty": "high",
+    "status": "reported_in_provided_material",
+    "evidence_ids": [
+      "evidence_0024"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "claim_0025",
+    "subject_id": "actor_0048",
+    "project_id": "project_escaudain",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Organisatrice du forum « l’IA et nous » lors duquel le projet a été officialisé.",
+    "certainty": "high",
+    "status": "reported_in_provided_material",
+    "evidence_ids": [
+      "evidence_0025"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "claim_0026",
+    "subject_id": "actor_0049",
+    "project_id": "project_escaudain",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Facilitateur du projet via la mise en place d'une procédure d'autorisation accélérée (fast track).",
+    "certainty": "high",
+    "status": "reported_in_provided_material",
+    "evidence_ids": [
+      "evidence_0026"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "claim_0027",
+    "subject_id": "actor_0050",
+    "project_id": "project_escaudain",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Représentant de l'État ayant publiquement salué le lancement du projet.",
+    "certainty": "high",
+    "status": "reported_in_provided_material",
+    "evidence_ids": [
+      "evidence_0027"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "claim_0028",
+    "subject_id": "actor_0051",
+    "project_id": "project_escaudain",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Impliqué dans un mégaprojet concurrent de trois data centers dans les Hauts-de-France.",
+    "certainty": "high",
+    "status": "reported_in_provided_material",
+    "evidence_ids": [
+      "evidence_0028"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "claim_0029",
+    "subject_id": "actor_0052",
+    "project_id": "project_escaudain",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Engagé par l'État pour remplacer le projet avorté de Fluidstack dans un autre secteur.",
+    "certainty": "high",
+    "status": "reported_in_provided_material",
+    "evidence_ids": [
+      "evidence_0029"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "claim_0030",
+    "subject_id": "actor_0053",
+    "project_id": "project_escaudain",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Ayant abandonné un précédent projet de data center, justifiant la prudence sur les annonces d'investissements.",
+    "certainty": "high",
+    "status": "reported_in_provided_material",
+    "evidence_ids": [
+      "evidence_0030"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "claim_0031",
+    "subject_id": "actor_0054",
+    "project_id": "project_escaudain",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Dont l'étude sur le stockage des données françaises justifie l'enjeu de souveraineté numérique du projet.",
+    "certainty": "high",
+    "status": "reported_in_provided_material",
+    "evidence_ids": [
+      "evidence_0031"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "claim_0032",
+    "subject_id": "actor_0055",
+    "project_id": "project_escaudain",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Annonce un projet colossal de data centers dans la région, créant une pression concurrentielle sur les ressources énergétiques.",
+    "certainty": "high",
+    "status": "reported_in_provided_material",
+    "evidence_ids": [
+      "evidence_0032"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-09"
+  }
+]

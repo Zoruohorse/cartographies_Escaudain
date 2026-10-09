@@ -1,0 +1,57 @@
+{
+  "griefs": [
+    {
+      "title": "⚡ Consommation électrique",
+      "text": "Le projet suppose une très forte demande de puissance, avec 700 MW visés à terme, ce qui sollicite lourdement les infrastructures existantes et requiert l'activation du poste électrique de Mastaing."
+    },
+    {
+      "title": "💧 Consommation d’eau",
+      "text": "Problématique hydrique classique inhérente aux centres de données. Les promoteurs du projet défendent l’idée d’un fonctionnement vertueux en circuit fermé pour garantir une consommation maîtrisée."
+    },
+    {
+      "title": "💼 Crédibilité des emplois",
+      "text": "Le volume de 2 400 emplois annoncés est au cœur du discours local de réindustrialisation, mais constitue un point de vigilance analytique récurrent au vu des faibles effectifs requis pour l'exploitation de serveurs."
+    },
+    {
+      "title": "👥 Acceptabilité locale",
+      "text": "Enjeu soulevé dans le cadrage réglementaire national des implantations d'infrastructures lourdes, impliquant une vigilance continue sur l'absence de fracture démocratique locale."
+    },
+    {
+      "title": "👁️ Absence d'opposition",
+      "text": "Fait d'analyse territorial notable : dans le corpus d'Escaudain étudié, aucun collectif citoyen d'opposition locale structurée ou opposant nommément identifié n'émerge à ce stade."
+    },
+    {
+      "title": "📉 Remise en cause du ratio d'emplois",
+      "text": "Le récit politique de la réindustrialisation par l'emploi est contredit par les professionnels (comme Etix) qui rappellent que les sites hyperscale comme Escaudain sont comparables à des entrepôts logistiques hautement automatisés (1 emploi pour 10 000 m²), créant bien moins de valeur locale que des structures de proximité."
+    },
+    {
+      "title": "⚡ Menace de cannibalisation électrique",
+      "text": "L'accumulation d'investissements annoncés au sommet Choose France (SoftBank, Nebius, Brookfield) soulève le risque d'une monopolisation du réseau électrique régional, menaçant l'accès à l'énergie d'autres secteurs économiques locaux."
+    }
+  ],
+  "vigilance": [
+    "<strong>Crédibilité du ruissellement et des emplois :</strong> L'annonce phare de 2 400 emplois liés au projet constitue un socle du discours politique local, mais héberge une forte prudence analytique (notamment relayée par Mediacités) face aux ratios d'emploi traditionnellement bas de l'exploitation de data centers.",
+    "<strong>Absence de front social :</strong> Le projet se distingue par l'absence d'une contestation environnementale ou associative territoriale structurée, facilitant grandement sa progression et son acceptation administrative.",
+    "<strong>Capacités de raccordement électrique :</strong> La viabilité du projet repose entièrement sur le succès de la procédure Fast Track de l'État et la capacité de RTE à sanctuariser 700 MW depuis le poste de Mastaing, au risque d'une concurrence avec d'autres filières industrielles régionales.",
+    "<strong>Guerre des annonces :</strong> Le sommet Choose France a provoqué une surenchère de milliards d'euros (jusqu'à 75 milliards pour SoftBank). Ces annonces macro-économiques doivent être traitées avec prudence quant à leur concrétisation opérationnelle et aux délais de raccordement électrique effectifs.",
+    "<strong>Bpifrance (Big Media) :</strong> Source institutionnelle détaillant les enjeux économiques, les nuances sur l'emploi, et le positionnement stratégique post-Choose France.",
+    "<strong>L'Observateur :</strong> Relais de la communication régionale sur l'émergence de la 'vallée de l'IA' dans les Hauts-de-France."
+  ],
+  "sources": [
+    "<strong>DCmag :</strong> Média spécialisé ayant relayé le choix du consortium Brookfield / BT Immo / Data4.",
+    "<strong>La Voix du Nord :</strong> Source régionale centrale sur le projet d’Escaudain, les délibérations de l'agglomération et le suivi des friches.",
+    "<strong>France 3 Régions :</strong> Média ayant détaillé le projet, ses emplois annoncés et les éléments techniques liés au raccordement électrique.",
+    "<strong>20 Minutes :</strong> Source nationale relayant l’officialisation du projet près de Valenciennes lors du forum régional.",
+    "<strong>Economie Matin :</strong> Source revenant sur la dimension stratégique et souveraine du projet pour le stockage des données.",
+    "<strong>Les Smart Grids :</strong> Source centrée sur la dimension énergétique et technique du campus et du poste de Mastaing.",
+    "<strong>Next :</strong> Source évoquant Escaudain dans le cadre national des sites de puissance prioritaires fast track.",
+    "<strong>Mediacités :</strong> Média local adoptant un angle prudent et critique sur la réalité des promesses industrielles et d'emplois du secteur.",
+    "<strong>Business Immo :</strong> Source B2B ayant relayé les investissements fonciers et immobiliers de Data4.",
+    "<strong>Le Journal des Entreprises :</strong> Média économique détaillant l'ancrage du pôle européen d'IA dans le Nord.",
+    "<strong>info.fr :</strong> Portail d'actualités récapitulant les caractéristiques écologiques et techniques du projet.",
+    "<strong>Data Center Dynamics :</strong> Média sectoriel international cité pour l'historique industriel de l'ancienne friche Usinor.",
+    "<strong>Baxtel :</strong> Base de données référençant Escaudain parmi les sites industriels clés en main prioritaires de l'État.",
+    "<strong>La Gazette France :</strong> Source citant les déclarations des porteurs de projet et des élus de La Porte du Hainaut.",
+    "<strong>L'Observateur :</strong> Média local relayant les propos de la mairie d'Escaudain sur les retombées fiscales."
+  ]
+}

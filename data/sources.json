@@ -1,0 +1,137 @@
+[
+  {
+    "id": "source_0001",
+    "title": "DCmag : Média spécialisé ayant relayé le choix du consortium Brookfield / BT Immo / Data4.",
+    "publisher": "DCmag",
+    "url": null,
+    "source_type": "corpus_secondary_reference",
+    "published_at": null,
+    "status": "url_to_add"
+  },
+  {
+    "id": "source_0002",
+    "title": "La Voix du Nord : Source régionale centrale sur le projet d’Escaudain, les délibérations de l'agglomération et le suivi des friches.",
+    "publisher": "La Voix du Nord",
+    "url": null,
+    "source_type": "corpus_secondary_reference",
+    "published_at": null,
+    "status": "url_to_add"
+  },
+  {
+    "id": "source_0003",
+    "title": "France 3 Régions : Média ayant détaillé le projet, ses emplois annoncés et les éléments techniques liés au raccordement électrique.",
+    "publisher": "France 3 Régions",
+    "url": null,
+    "source_type": "corpus_secondary_reference",
+    "published_at": null,
+    "status": "url_to_add"
+  },
+  {
+    "id": "source_0004",
+    "title": "20 Minutes : Source nationale relayant l’officialisation du projet près de Valenciennes lors du forum régional.",
+    "publisher": "20 Minutes",
+    "url": null,
+    "source_type": "corpus_secondary_reference",
+    "published_at": null,
+    "status": "url_to_add"
+  },
+  {
+    "id": "source_0005",
+    "title": "Economie Matin : Source revenant sur la dimension stratégique et souveraine du projet pour le stockage des données.",
+    "publisher": "Economie Matin",
+    "url": null,
+    "source_type": "corpus_secondary_reference",
+    "published_at": null,
+    "status": "url_to_add"
+  },
+  {
+    "id": "source_0006",
+    "title": "Les Smart Grids : Source centrée sur la dimension énergétique et technique du campus et du poste de Mastaing.",
+    "publisher": "Les Smart Grids",
+    "url": null,
+    "source_type": "corpus_secondary_reference",
+    "published_at": null,
+    "status": "url_to_add"
+  },
+  {
+    "id": "source_0007",
+    "title": "Next : Source évoquant Escaudain dans le cadre national des sites de puissance prioritaires fast track.",
+    "publisher": "Next",
+    "url": null,
+    "source_type": "corpus_secondary_reference",
+    "published_at": null,
+    "status": "url_to_add"
+  },
+  {
+    "id": "source_0008",
+    "title": "Mediacités : Média local adoptant un angle prudent et critique sur la réalité des promesses industrielles et d'emplois du secteur.",
+    "publisher": "Mediacités",
+    "url": null,
+    "source_type": "corpus_secondary_reference",
+    "published_at": null,
+    "status": "url_to_add"
+  },
+  {
+    "id": "source_0009",
+    "title": "Business Immo : Source B2B ayant relayé les investissements fonciers et immobiliers de Data4.",
+    "publisher": "Business Immo",
+    "url": null,
+    "source_type": "corpus_secondary_reference",
+    "published_at": null,
+    "status": "url_to_add"
+  },
+  {
+    "id": "source_0010",
+    "title": "Le Journal des Entreprises : Média économique détaillant l'ancrage du pôle européen d'IA dans le Nord.",
+    "publisher": "Le Journal des Entreprises",
+    "url": null,
+    "source_type": "corpus_secondary_reference",
+    "published_at": null,
+    "status": "url_to_add"
+  },
+  {
+    "id": "source_0011",
+    "title": "info.fr : Portail d'actualités récapitulant les caractéristiques écologiques et techniques du projet.",
+    "publisher": "info.fr",
+    "url": null,
+    "source_type": "corpus_secondary_reference",
+    "published_at": null,
+    "status": "url_to_add"
+  },
+  {
+    "id": "source_0012",
+    "title": "Data Center Dynamics : Média sectoriel international cité pour l'historique industriel de l'ancienne friche Usinor.",
+    "publisher": "Data Center Dynamics",
+    "url": null,
+    "source_type": "corpus_secondary_reference",
+    "published_at": null,
+    "status": "url_to_add"
+  },
+  {
+    "id": "source_0013",
+    "title": "Baxtel : Base de données référençant Escaudain parmi les sites industriels clés en main prioritaires de l'État.",
+    "publisher": "Baxtel",
+    "url": null,
+    "source_type": "corpus_secondary_reference",
+    "published_at": null,
+    "status": "url_to_add"
+  },
+  {
+    "id": "source_0014",
+    "title": "La Gazette France : Source citant les déclarations des porteurs de projet et des élus de La Porte du Hainaut.",
+    "publisher": "La Gazette France",
+    "url": null,
+    "source_type": "corpus_secondary_reference",
+    "published_at": null,
+    "status": "url_to_add"
+  },
+  {
+    "id": "source_0015",
+    "title": "L'Observateur : Média local relayant les propos de la mairie d'Escaudain sur les retombées fiscales.",
+    "publisher": "L'Observateur",
+    "url": null,
+    "source_type": "corpus_secondary_reference",
+    "published_at": null,
+    "status": "url_to_add"
+  }
+]

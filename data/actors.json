@@ -1,0 +1,949 @@
+[
+  {
+    "id": "project_escaudain",
+    "type": "project",
+    "name": "Campus de data centers — Escaudain",
+    "short_name": "Campus data centers Escaudain",
+    "description": "Projet de campus de data centers IA prévu à Escaudain sur l’ancienne friche Usinor, avec un investissement annoncé d’environ 5 milliards d’euros et une mise en service visée autour de 2030.",
+    "roles": [
+      {
+        "label": "Projet central"
+      }
+    ],
+    "categories": [
+      "project"
+    ],
+    "display_in_cards": false,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0002",
+    "type": "project",
+    "name": "Friche Usinor / zone des Soufflantes",
+    "short_name": "Friche Usinor zone des Soufflantes",
+    "description": "Ancien site sidérurgique d’environ 38 hectares à Escaudain, support foncier du futur campus de data centers.",
+    "roles": [
+      {
+        "label": "Projet central"
+      }
+    ],
+    "categories": [
+      "project"
+    ],
+    "display_in_cards": false,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0003",
+    "type": "project",
+    "name": "Escaudain",
+    "short_name": "Escaudain",
+    "description": "Commune d’implantation du projet, dans le Valenciennois.",
+    "roles": [
+      {
+        "label": "Projet central"
+      }
+    ],
+    "categories": [
+      "project"
+    ],
+    "display_in_cards": false,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0004",
+    "type": "project",
+    "name": "Campus, pépinière et incubateur",
+    "short_name": "Campus, pépinière & incubateur",
+    "description": "Écosystème complémentaire évoqué autour du data center : campus de formation, pépinière d’entreprises et incubateur pour accompagner la reconversion économique du territoire.",
+    "roles": [
+      {
+        "label": "Projet central"
+      }
+    ],
+    "categories": [
+      "project"
+    ],
+    "display_in_cards": false,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0005",
+    "type": "entity",
+    "name": "Aymeric Robin",
+    "short_name": "Aymeric Robin",
+    "description": "Président de la CAPH et maire de Raismes",
+    "roles": [
+      {
+        "label": "Président de la CAPH et maire de Raismes"
+      }
+    ],
+    "categories": [
+      "elus-fav"
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0006",
+    "type": "entity",
+    "name": "Bruno Saligot",
+    "short_name": "Bruno Saligot",
+    "description": "Maire d’Escaudain et vice-président de l’agglomération",
+    "roles": [
+      {
+        "label": "Maire d’Escaudain et vice-président de l’agglomération"
+      }
+    ],
+    "categories": [
+      "elus-fav"
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0007",
+    "type": "entity",
+    "name": "Émilie Gérard",
+    "short_name": "Émilie Gérard",
+    "description": "Chargée d’affaires développement économique",
+    "roles": [
+      {
+        "label": "Chargée d’affaires développement économique"
+      }
+    ],
+    "categories": [
+      "elus-fav"
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0008",
+    "type": "entity",
+    "name": "Communauté d’agglomération de La Porte du Hainaut",
+    "short_name": "Communauté d’agglo de La Porte du Hainaut",
+    "description": "Collectivité territoriale centrale",
+    "roles": [
+      {
+        "label": "Collectivité territoriale centrale"
+      }
+    ],
+    "categories": [
+      "elus-fav"
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0009",
+    "type": "entity",
+    "name": "Raismes",
+    "short_name": "Raismes",
+    "description": "Commune liée au dossier via Aymeric Robin, qui en est le maire.",
+    "roles": [
+      {
+        "label": "Élus / acteurs territoriaux moteurs"
+      }
+    ],
+    "categories": [
+      "elus-fav"
+    ],
+    "display_in_cards": false,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0010",
+    "type": "organization",
+    "name": "Brookfield",
+    "short_name": "Brookfield",
+    "description": "Fonds d’investissement canadien",
+    "roles": [
+      {
+        "label": "Fonds d’investissement canadien"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0011",
+    "type": "organization",
+    "name": "BT Immo",
+    "short_name": "BT Immo",
+    "description": "Acteur immobilier / constructeur",
+    "roles": [
+      {
+        "label": "Acteur immobilier / constructeur"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0012",
+    "type": "organization",
+    "name": "Data4",
+    "short_name": "Data4",
+    "description": "Opérateur de data centers",
+    "roles": [
+      {
+        "label": "Opérateur de data centers"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0013",
+    "type": "organization",
+    "name": "AWS / Amazon Web Services",
+    "short_name": "AWS Amazon Web Services",
+    "description": "Acteur candidat",
+    "roles": [
+      {
+        "label": "Acteur candidat"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0014",
+    "type": "organization",
+    "name": "Usinor",
+    "short_name": "Usinor",
+    "description": "Ancien groupe sidérurgique dont la friche sert de support au projet ; symbole de la reconversion économique du territoire.",
+    "roles": [
+      {
+        "label": "Porteurs industriels / économiques"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "display_in_cards": false,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0015",
+    "type": "organization",
+    "name": "RTE",
+    "short_name": "RTE",
+    "description": "Gestionnaire du réseau de transport d’électricité",
+    "roles": [
+      {
+        "label": "Gestionnaire du réseau de transport d’électricité"
+      }
+    ],
+    "categories": [
+      "energie",
+      "orgs"
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0016",
+    "type": "organization",
+    "name": "Nathalie Lemaître",
+    "short_name": "Nathalie Lemaître",
+    "description": "Directrice générale du pôle Clients Systèmes Innovation chez RTE",
+    "roles": [
+      {
+        "label": "Directrice générale du pôle Clients Systèmes Innovation chez RTE"
+      }
+    ],
+    "categories": [
+      "energie",
+      "orgs"
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0017",
+    "type": "organization",
+    "name": "Poste de Mastaing",
+    "short_name": "Poste de Mastaing",
+    "description": "Infrastructure électrique structurante située à proximité du site, mise en avant pour justifyer la rapidité possible du raccordement.",
+    "roles": [
+      {
+        "label": "Énergie / raccordement"
+      }
+    ],
+    "categories": [
+      "energie"
+    ],
+    "display_in_cards": false,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0018",
+    "type": "organization",
+    "name": "Enedis",
+    "short_name": "Enedis",
+    "description": "Acteur de la distribution d'électricité",
+    "roles": [
+      {
+        "label": "Acteur de la distribution d'électricité"
+      }
+    ],
+    "categories": [
+      "energie",
+      "orgs"
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0019",
+    "type": "organization",
+    "name": "700 MW",
+    "short_name": "700 MW",
+    "description": "Capacité de raccordement mise en avant comme objectif à terme pour le site d’Escaudain.",
+    "roles": [
+      {
+        "label": "Énergie / raccordement"
+      }
+    ],
+    "categories": [
+      "energie"
+    ],
+    "display_in_cards": false,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0020",
+    "type": "organization",
+    "name": "Anne Le Hénanff",
+    "short_name": "Anne Le Hénanff",
+    "description": "Ministre déléguée chargée de l’IA et du Numérique",
+    "roles": [
+      {
+        "label": "Ministre déléguée chargée de l’IA et du Numérique"
+      }
+    ],
+    "categories": [
+      "etat",
+      "elus-fav"
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0021",
+    "type": "organization",
+    "name": "Roland Lescure",
+    "short_name": "Roland Lescure",
+    "description": "Ministre de l’Économie",
+    "roles": [
+      {
+        "label": "Ministre de l’Économie"
+      }
+    ],
+    "categories": [
+      "etat",
+      "elus-fav"
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0022",
+    "type": "organization",
+    "name": "DGE",
+    "short_name": "DGE",
+    "description": "Direction générale des entreprises",
+    "roles": [
+      {
+        "label": "Direction générale des entreprises"
+      }
+    ],
+    "categories": [
+      "etat",
+      "orgs"
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0023",
+    "type": "organization",
+    "name": "Business France",
+    "short_name": "Business France",
+    "description": "Agence nationale d'attractivité",
+    "roles": [
+      {
+        "label": "Agence nationale d'attractivité"
+      }
+    ],
+    "categories": [
+      "etat",
+      "orgs"
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0024",
+    "type": "organization",
+    "name": "François Bayrou",
+    "short_name": "François Bayrou",
+    "description": "Ancien Premier ministre",
+    "roles": [
+      {
+        "label": "Ancien Premier ministre"
+      }
+    ],
+    "categories": [
+      "etat",
+      "elus-fav"
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0025",
+    "type": "organization",
+    "name": "2 400 emplois à terme",
+    "short_name": "2 400 emplois à terme",
+    "description": "Promesse centrale du projet, mise en avant par les élus locaux, avec environ 600 emplois dans une première phase.",
+    "roles": [
+      {
+        "label": "Formation / emploi"
+      }
+    ],
+    "categories": [
+      "formation"
+    ],
+    "display_in_cards": false,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0026",
+    "type": "organization",
+    "name": "Université",
+    "short_name": "Université",
+    "description": "Acteur académique",
+    "roles": [
+      {
+        "label": "Acteur académique"
+      }
+    ],
+    "categories": [
+      "formation",
+      "orgs"
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0027",
+    "type": "organization",
+    "name": "Lycées",
+    "short_name": "Lycées",
+    "description": "Établissements d'enseignement",
+    "roles": [
+      {
+        "label": "Établissements d'enseignement"
+      }
+    ],
+    "categories": [
+      "formation",
+      "orgs"
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0028",
+    "type": "organization",
+    "name": "Éducation nationale",
+    "short_name": "Éducation nationale",
+    "description": "Institution étatique",
+    "roles": [
+      {
+        "label": "Institution étatique"
+      }
+    ],
+    "categories": [
+      "formation",
+      "orgs"
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0029",
+    "type": "organization",
+    "name": "Recherche, maintenance et exploitation",
+    "short_name": "Recherche, maintenance et exploitation",
+    "description": "Ensemble de métiers et fonctions mis en avant dans le récit du projet.",
+    "roles": [
+      {
+        "label": "Formation / emploi"
+      }
+    ],
+    "categories": [
+      "formation"
+    ],
+    "display_in_cards": false,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0030",
+    "type": "entity",
+    "name": "Consommation électrique",
+    "short_name": "Consommation électrique",
+    "description": "Le projet suppose une très forte demande de puissance, avec 700 MW visés à terme.",
+    "roles": [
+      {
+        "label": "Points de vigilance / griefs"
+      }
+    ],
+    "categories": [
+      "vigilance"
+    ],
+    "display_in_cards": false,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0031",
+    "type": "entity",
+    "name": "Consommation d’eau",
+    "short_name": "Consommation d’eau",
+    "description": "Question classique autour des data centers. Les promoteurs du projet défendent l’idée d’un fonctionnement en circuit fermé et d’une consommation maîtrisée.",
+    "roles": [
+      {
+        "label": "Points de vigilance / griefs"
+      }
+    ],
+    "categories": [
+      "vigilance"
+    ],
+    "display_in_cards": false,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0032",
+    "type": "entity",
+    "name": "Crédibilité des emplois annoncés",
+    "short_name": "Crédibilité des emplois annoncés",
+    "description": "Le volume de 2 400 emplois est au cœur du discours local, mais constitue aussi un point de vigilance analytique.",
+    "roles": [
+      {
+        "label": "Points de vigilance / griefs"
+      }
+    ],
+    "categories": [
+      "vigilance"
+    ],
+    "display_in_cards": false,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0033",
+    "type": "entity",
+    "name": "Acceptabilité locale",
+    "short_name": "Acceptabilité locale",
+    "description": "Sujet mentionné dans le cadrage national des projets data centers, même si aucune opposition locale structurée n’apparaît ici.",
+    "roles": [
+      {
+        "label": "Points de vigilance / griefs"
+      }
+    ],
+    "categories": [
+      "vigilance"
+    ],
+    "display_in_cards": false,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0034",
+    "type": "entity",
+    "name": "Pas d’opposition locale structurée identifiée",
+    "short_name": "Pas d’opposition locale structurée identifiée",
+    "description": "Dans le corpus étudié, aucun collectif local d’opposition ou opposant local nommément cité n’apparaît clairement à ce stade pour Escaudain.",
+    "roles": [
+      {
+        "label": "Points de vigilance / griefs"
+      }
+    ],
+    "categories": [
+      "vigilance"
+    ],
+    "display_in_cards": false,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0035",
+    "type": "organization",
+    "name": "DCmag",
+    "short_name": "DCmag",
+    "description": "Média spécialisé ayant relayé le choix du consortium Brookfield / BT Immo / Data4.",
+    "roles": [
+      {
+        "label": "Médias / sources cités"
+      }
+    ],
+    "categories": [
+      "medias"
+    ],
+    "display_in_cards": false,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0036",
+    "type": "organization",
+    "name": "La Voix du Nord",
+    "short_name": "La Voix du Nord",
+    "description": "Source régionale centrale sur le projet d’Escaudain.",
+    "roles": [
+      {
+        "label": "Médias / sources cités"
+      }
+    ],
+    "categories": [
+      "medias"
+    ],
+    "display_in_cards": false,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0037",
+    "type": "organization",
+    "name": "France 3 Régions",
+    "short_name": "France 3 Régions",
+    "description": "Média ayant détaillé le projet, ses emplois annoncés et les éléments techniques liés au raccordement.",
+    "roles": [
+      {
+        "label": "Médias / sources cités"
+      }
+    ],
+    "categories": [
+      "medias"
+    ],
+    "display_in_cards": false,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0038",
+    "type": "organization",
+    "name": "20 Minutes",
+    "short_name": "20 Minutes",
+    "description": "Source nationale relayant l’officialisation du projet près de Valenciennes.",
+    "roles": [
+      {
+        "label": "Médias / sources cités"
+      }
+    ],
+    "categories": [
+      "medias"
+    ],
+    "display_in_cards": false,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0039",
+    "type": "organization",
+    "name": "Economie Matin",
+    "short_name": "Economie Matin",
+    "description": "Source revenant sur la dimension stratégique et souveraine du projet.",
+    "roles": [
+      {
+        "label": "Médias / sources cités"
+      }
+    ],
+    "categories": [
+      "medias"
+    ],
+    "display_in_cards": false,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0040",
+    "type": "organization",
+    "name": "Les Smart Grids",
+    "short_name": "Les Smart Grids",
+    "description": "Source centrée sur la dimension énergétique et technique du campus.",
+    "roles": [
+      {
+        "label": "Médias / sources cités"
+      }
+    ],
+    "categories": [
+      "medias"
+    ],
+    "display_in_cards": false,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0041",
+    "type": "organization",
+    "name": "Next",
+    "short_name": "Next",
+    "description": "Source évoquant Escaudain dans le cadre national des sites fast track.",
+    "roles": [
+      {
+        "label": "Médias / sources cités"
+      }
+    ],
+    "categories": [
+      "medias"
+    ],
+    "display_in_cards": false,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0042",
+    "type": "entity",
+    "name": "Louis Blanchot",
+    "short_name": "L. Blanchot (Etix)",
+    "description": "PDG d'Etix",
+    "roles": [
+      {
+        "label": "PDG d'Etix"
+      }
+    ],
+    "categories": [
+      "vigilance",
+      "porteurs"
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0043",
+    "type": "organization",
+    "name": "Nebius",
+    "short_name": "Nebius",
+    "description": "Opérateur cloud",
+    "roles": [
+      {
+        "label": "Opérateur cloud"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0044",
+    "type": "organization",
+    "name": "SoftBank",
+    "short_name": "SoftBank",
+    "description": "Conglomérat annonçant jusqu'à 75 milliards d'euros d'investissements dans les Hauts-de-France.",
+    "roles": [
+      {
+        "label": "Porteurs industriels / économiques"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "display_in_cards": false,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0045",
+    "type": "entity",
+    "name": "Xavier Bertrand",
+    "short_name": "X. Bertrand",
+    "description": "Président de Région",
+    "roles": [
+      {
+        "label": "Président de Région"
+      }
+    ],
+    "categories": [
+      "elus-fav"
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0046",
+    "type": "organization",
+    "name": "Olivier Micheli",
+    "short_name": "Olivier Micheli",
+    "description": "Président et CEO de Data4",
+    "roles": [
+      {
+        "label": "Président et CEO de Data4"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0047",
+    "type": "entity",
+    "name": "Emmanuel Macron",
+    "short_name": "Emmanuel Macron",
+    "description": "Président de la République",
+    "roles": [
+      {
+        "label": "Président de la République"
+      }
+    ],
+    "categories": [
+      "elus-fav"
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0048",
+    "type": "entity",
+    "name": "Région Hauts-de-France",
+    "short_name": "Région Hauts-de-France",
+    "description": "Collectivité régionale",
+    "roles": [
+      {
+        "label": "Collectivité régionale"
+      }
+    ],
+    "categories": [
+      "elus-fav"
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0049",
+    "type": "entity",
+    "name": "Gouvernement français",
+    "short_name": "Gouvernement français",
+    "description": "Exécutif national",
+    "roles": [
+      {
+        "label": "Exécutif national"
+      }
+    ],
+    "categories": [
+      "elus-fav"
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0050",
+    "type": "entity",
+    "name": "Préfet du Nord",
+    "short_name": "Préfet du Nord",
+    "description": "Représentant de l'État en région",
+    "roles": [
+      {
+        "label": "Représentant de l'État en région"
+      }
+    ],
+    "categories": [
+      "elus-fav"
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0051",
+    "type": "organization",
+    "name": "Softbank",
+    "short_name": "Softbank",
+    "description": "Fonds d'investissement japonais",
+    "roles": [
+      {
+        "label": "Fonds d'investissement japonais"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0052",
+    "type": "organization",
+    "name": "Masayoshi Son",
+    "short_name": "Masayoshi Son",
+    "description": "Patron fondateur de Softbank",
+    "roles": [
+      {
+        "label": "Patron fondateur de Softbank"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0053",
+    "type": "organization",
+    "name": "Fluidstack",
+    "short_name": "Fluidstack",
+    "description": "Société technologique britannique",
+    "roles": [
+      {
+        "label": "Société technologique britannique"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0054",
+    "type": "organization",
+    "name": "Institut Montaigne",
+    "short_name": "Institut Montaigne",
+    "description": "Think tank économique",
+    "roles": [
+      {
+        "label": "Think tank économique"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0055",
+    "type": "organization",
+    "name": "SoftBank (Masayoshi Son)",
+    "short_name": "SoftBank (Masayoshi Son)",
+    "description": "Conglomérat japonais",
+    "roles": [
+      {
+        "label": "Conglomérat japonais"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-10-09"
+  }
+]
