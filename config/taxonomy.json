@@ -47,6 +47,10 @@
     "formation": {
       "label": "Formation et emploi",
       "color": "#0284c7"
+    },
+    "elus-neutres": {
+      "label": "Élus sans position documentée",
+      "color": "#64748b"
     }
   },
   "stances": {

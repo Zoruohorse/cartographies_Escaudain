@@ -4,13 +4,15 @@
     "source_id": "project_escaudain",
     "target_id": "actor_0002",
     "type": "associated_with",
-    "summary": "rôle / position — lien présenté dans le réseau source fourni ; sa nature factuelle exacte reste à qualifier à partir des documents.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "summary": "Implantation prévue du campus Data4 sur l’ancienne friche des Soufflantes.",
+    "certainty": "high",
+    "status": "qualified_with_source",
+    "evidence_ids": [
+      "evidence_0038"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
+    "updated_at": "2026-11-05",
     "source_relation_kind": "rôle / position"
   },
   {
@@ -18,13 +20,15 @@
     "source_id": "project_escaudain",
     "target_id": "actor_0003",
     "type": "associated_with",
-    "summary": "rôle / position — lien présenté dans le réseau source fourni ; sa nature factuelle exacte reste à qualifier à partir des documents.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "summary": "Campus situé sur la commune d’Escaudain.",
+    "certainty": "high",
+    "status": "qualified_with_source",
+    "evidence_ids": [
+      "evidence_0038"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
+    "updated_at": "2026-11-05",
     "source_relation_kind": "rôle / position"
   },
   {
@@ -32,13 +36,15 @@
     "source_id": "project_escaudain",
     "target_id": "actor_0004",
     "type": "associated_with",
-    "summary": "rôle / position — lien présenté dans le réseau source fourni ; sa nature factuelle exacte reste à qualifier à partir des documents.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "summary": "Un pôle de formation et d’innovation est envisagé, notamment « Data4 Pour Tous ».",
+    "certainty": "high",
+    "status": "qualified_with_source",
+    "evidence_ids": [
+      "evidence_0039"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
+    "updated_at": "2026-11-05",
     "source_relation_kind": "rôle / position"
   },
   {
@@ -47,12 +53,14 @@
     "target_id": "actor_0005",
     "type": "associated_with",
     "summary": "rôle / position — lien présenté dans le réseau source fourni ; sa nature factuelle exacte reste à qualifier à partir des documents.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "certainty": "high",
+    "status": "qualified_with_source",
+    "evidence_ids": [
+      "evidence_0001"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
+    "updated_at": "2026-11-05",
     "source_relation_kind": "rôle / position"
   },
   {
@@ -60,13 +68,15 @@
     "source_id": "project_escaudain",
     "target_id": "actor_0006",
     "type": "associated_with",
-    "summary": "rôle / position — lien présenté dans le réseau source fourni ; sa nature factuelle exacte reste à qualifier à partir des documents.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "summary": "Soutien de Bruno Saligot lorsqu’il était maire en 2025, rôle désormais historique.",
+    "certainty": "high",
+    "status": "qualified_with_source",
+    "evidence_ids": [
+      "evidence_0046"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
+    "updated_at": "2026-11-05",
     "source_relation_kind": "rôle / position"
   },
   {
@@ -75,12 +85,14 @@
     "target_id": "actor_0007",
     "type": "associated_with",
     "summary": "rôle / position — lien présenté dans le réseau source fourni ; sa nature factuelle exacte reste à qualifier à partir des documents.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "certainty": "high",
+    "status": "qualified_with_source",
+    "evidence_ids": [
+      "evidence_0003"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
+    "updated_at": "2026-11-05",
     "source_relation_kind": "rôle / position"
   },
   {
@@ -89,12 +101,14 @@
     "target_id": "actor_0008",
     "type": "associated_with",
     "summary": "rôle / position — lien présenté dans le réseau source fourni ; sa nature factuelle exacte reste à qualifier à partir des documents.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "certainty": "high",
+    "status": "qualified_with_source",
+    "evidence_ids": [
+      "evidence_0004"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
+    "updated_at": "2026-11-05",
     "source_relation_kind": "rôle / position"
   },
   {
@@ -102,13 +116,15 @@
     "source_id": "project_escaudain",
     "target_id": "actor_0009",
     "type": "associated_with",
-    "summary": "rôle / position — lien présenté dans le réseau source fourni ; sa nature factuelle exacte reste à qualifier à partir des documents.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "summary": "Aymeric Robin représente La Porte du Hainaut ; Raismes est sa commune de mandat municipal, pas le lieu du campus.",
+    "certainty": "high",
+    "status": "qualified_with_source",
+    "evidence_ids": [
+      "evidence_0001"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
+    "updated_at": "2026-11-05",
     "source_relation_kind": "rôle / position"
   },
   {
@@ -117,12 +133,14 @@
     "target_id": "actor_0010",
     "type": "associated_with",
     "summary": "rôle / position — lien présenté dans le réseau source fourni ; sa nature factuelle exacte reste à qualifier à partir des documents.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "certainty": "high",
+    "status": "qualified_with_source",
+    "evidence_ids": [
+      "evidence_0005"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
+    "updated_at": "2026-11-05",
     "source_relation_kind": "rôle / position"
   },
   {
@@ -131,12 +149,14 @@
     "target_id": "actor_0011",
     "type": "associated_with",
     "summary": "rôle / position — lien présenté dans le réseau source fourni ; sa nature factuelle exacte reste à qualifier à partir des documents.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "certainty": "high",
+    "status": "qualified_with_source",
+    "evidence_ids": [
+      "evidence_0006"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
+    "updated_at": "2026-11-05",
     "source_relation_kind": "rôle / position"
   },
   {
@@ -145,26 +165,30 @@
     "target_id": "actor_0012",
     "type": "associated_with",
     "summary": "rôle / position — lien présenté dans le réseau source fourni ; sa nature factuelle exacte reste à qualifier à partir des documents.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "certainty": "high",
+    "status": "qualified_with_source",
+    "evidence_ids": [
+      "evidence_0007"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
+    "updated_at": "2026-11-05",
     "source_relation_kind": "rôle / position"
   },
   {
     "id": "relation_0012",
     "source_id": "project_escaudain",
     "target_id": "actor_0013",
-    "type": "associated_with",
-    "summary": "rôle / position — lien présenté dans le réseau source fourni ; sa nature factuelle exacte reste à qualifier à partir des documents.",
+    "type": "context_mention",
+    "summary": "AWS a candidaté à l’AMI, sans être retenu comme porteur du site.",
     "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "status": "qualified_with_source",
+    "evidence_ids": [
+      "evidence_0008"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
+    "updated_at": "2026-11-05",
     "source_relation_kind": "rôle / position"
   },
   {
@@ -173,12 +197,14 @@
     "target_id": "actor_0014",
     "type": "associated_with",
     "summary": "rôle / position — lien présenté dans le réseau source fourni ; sa nature factuelle exacte reste à qualifier à partir des documents.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "certainty": "high",
+    "status": "qualified_with_source",
+    "evidence_ids": [
+      "evidence_0038"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
+    "updated_at": "2026-11-05",
     "source_relation_kind": "rôle / position"
   },
   {
@@ -186,27 +212,15 @@
     "source_id": "project_escaudain",
     "target_id": "actor_0015",
     "type": "associated_with",
-    "summary": "rôle / position — lien présenté dans le réseau source fourni ; sa nature factuelle exacte reste à qualifier à partir des documents.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "summary": "RTE est associé au dispositif Fast Track : 700 MW visés, sans démonstration de mise sous tension.",
+    "certainty": "high",
+    "status": "qualified_with_source",
+    "evidence_ids": [
+      "evidence_0009"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "rôle / position"
-  },
-  {
-    "id": "relation_0015",
-    "source_id": "project_escaudain",
-    "target_id": "actor_0016",
-    "type": "associated_with",
-    "summary": "rôle / position — lien présenté dans le réseau source fourni ; sa nature factuelle exacte reste à qualifier à partir des documents.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
-    "valid_from": null,
-    "valid_to": null,
-    "updated_at": "2026-10-09",
+    "updated_at": "2026-11-05",
     "source_relation_kind": "rôle / position"
   },
   {
@@ -214,27 +228,15 @@
     "source_id": "project_escaudain",
     "target_id": "actor_0017",
     "type": "associated_with",
-    "summary": "rôle / position — lien présenté dans le réseau source fourni ; sa nature factuelle exacte reste à qualifier à partir des documents.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "summary": "Le poste de Mastaing est invoqué dans les perspectives futures de raccordement, non comme preuve de capacité déjà livrée.",
+    "certainty": "high",
+    "status": "qualified_with_source",
+    "evidence_ids": [
+      "evidence_0003"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "rôle / position"
-  },
-  {
-    "id": "relation_0017",
-    "source_id": "project_escaudain",
-    "target_id": "actor_0018",
-    "type": "associated_with",
-    "summary": "rôle / position — lien présenté dans le réseau source fourni ; sa nature factuelle exacte reste à qualifier à partir des documents.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
-    "valid_from": null,
-    "valid_to": null,
-    "updated_at": "2026-10-09",
+    "updated_at": "2026-11-05",
     "source_relation_kind": "rôle / position"
   },
   {
@@ -242,83 +244,15 @@
     "source_id": "project_escaudain",
     "target_id": "actor_0019",
     "type": "associated_with",
-    "summary": "rôle / position — lien présenté dans le réseau source fourni ; sa nature factuelle exacte reste à qualifier à partir des documents.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "summary": "Capacité électrique brute de 700 MW annoncée à terme, non puissance informatique livrée.",
+    "certainty": "high",
+    "status": "qualified_with_source",
+    "evidence_ids": [
+      "evidence_0044"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "rôle / position"
-  },
-  {
-    "id": "relation_0019",
-    "source_id": "project_escaudain",
-    "target_id": "actor_0020",
-    "type": "associated_with",
-    "summary": "rôle / position — lien présenté dans le réseau source fourni ; sa nature factuelle exacte reste à qualifier à partir des documents.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
-    "valid_from": null,
-    "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "rôle / position"
-  },
-  {
-    "id": "relation_0020",
-    "source_id": "project_escaudain",
-    "target_id": "actor_0021",
-    "type": "associated_with",
-    "summary": "rôle / position — lien présenté dans le réseau source fourni ; sa nature factuelle exacte reste à qualifier à partir des documents.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
-    "valid_from": null,
-    "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "rôle / position"
-  },
-  {
-    "id": "relation_0021",
-    "source_id": "project_escaudain",
-    "target_id": "actor_0022",
-    "type": "associated_with",
-    "summary": "rôle / position — lien présenté dans le réseau source fourni ; sa nature factuelle exacte reste à qualifier à partir des documents.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
-    "valid_from": null,
-    "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "rôle / position"
-  },
-  {
-    "id": "relation_0022",
-    "source_id": "project_escaudain",
-    "target_id": "actor_0023",
-    "type": "associated_with",
-    "summary": "rôle / position — lien présenté dans le réseau source fourni ; sa nature factuelle exacte reste à qualifier à partir des documents.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
-    "valid_from": null,
-    "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "rôle / position"
-  },
-  {
-    "id": "relation_0023",
-    "source_id": "project_escaudain",
-    "target_id": "actor_0024",
-    "type": "associated_with",
-    "summary": "rôle / position — lien présenté dans le réseau source fourni ; sa nature factuelle exacte reste à qualifier à partir des documents.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
-    "valid_from": null,
-    "valid_to": null,
-    "updated_at": "2026-10-09",
+    "updated_at": "2026-11-05",
     "source_relation_kind": "rôle / position"
   },
   {
@@ -326,55 +260,63 @@
     "source_id": "project_escaudain",
     "target_id": "actor_0025",
     "type": "associated_with",
-    "summary": "rôle / position — lien présenté dans le réseau source fourni ; sa nature factuelle exacte reste à qualifier à partir des documents.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "summary": "Objectif annoncé de 2 400 emplois régionaux permanents à terme, et non volume d’emplois observés.",
+    "certainty": "high",
+    "status": "qualified_with_source",
+    "evidence_ids": [
+      "evidence_0042"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
+    "updated_at": "2026-11-05",
     "source_relation_kind": "rôle / position"
   },
   {
     "id": "relation_0025",
     "source_id": "project_escaudain",
     "target_id": "actor_0026",
-    "type": "associated_with",
-    "summary": "rôle / position — lien présenté dans le réseau source fourni ; sa nature factuelle exacte reste à qualifier à partir des documents.",
+    "type": "context_mention",
+    "summary": "L’université est évoquée comme partenaire de formation possible, sans contrat démontré.",
     "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "status": "qualified_with_source",
+    "evidence_ids": [
+      "evidence_0017"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
+    "updated_at": "2026-11-05",
     "source_relation_kind": "rôle / position"
   },
   {
     "id": "relation_0026",
     "source_id": "project_escaudain",
     "target_id": "actor_0027",
-    "type": "associated_with",
-    "summary": "rôle / position — lien présenté dans le réseau source fourni ; sa nature factuelle exacte reste à qualifier à partir des documents.",
+    "type": "context_mention",
+    "summary": "Les lycées sont évoqués comme partenaires de formation possibles, sans contrat démontré.",
     "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "status": "qualified_with_source",
+    "evidence_ids": [
+      "evidence_0018"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
+    "updated_at": "2026-11-05",
     "source_relation_kind": "rôle / position"
   },
   {
     "id": "relation_0027",
     "source_id": "project_escaudain",
     "target_id": "actor_0028",
-    "type": "associated_with",
-    "summary": "rôle / position — lien présenté dans le réseau source fourni ; sa nature factuelle exacte reste à qualifier à partir des documents.",
+    "type": "context_mention",
+    "summary": "L’Éducation nationale est évoquée comme interlocuteur possible, sans contrat démontré.",
     "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "status": "qualified_with_source",
+    "evidence_ids": [
+      "evidence_0019"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
+    "updated_at": "2026-11-05",
     "source_relation_kind": "rôle / position"
   },
   {
@@ -383,12 +325,14 @@
     "target_id": "actor_0029",
     "type": "associated_with",
     "summary": "rôle / position — lien présenté dans le réseau source fourni ; sa nature factuelle exacte reste à qualifier à partir des documents.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "certainty": "high",
+    "status": "qualified_with_source",
+    "evidence_ids": [
+      "evidence_0039"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
+    "updated_at": "2026-11-05",
     "source_relation_kind": "rôle / position"
   },
   {
@@ -397,12 +341,14 @@
     "target_id": "actor_0030",
     "type": "associated_with",
     "summary": "rôle / position — lien présenté dans le réseau source fourni ; sa nature factuelle exacte reste à qualifier à partir des documents.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "certainty": "high",
+    "status": "qualified_with_source",
+    "evidence_ids": [
+      "evidence_0044"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
+    "updated_at": "2026-11-05",
     "source_relation_kind": "rôle / position"
   },
   {
@@ -411,12 +357,14 @@
     "target_id": "actor_0031",
     "type": "associated_with",
     "summary": "rôle / position — lien présenté dans le réseau source fourni ; sa nature factuelle exacte reste à qualifier à partir des documents.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "certainty": "high",
+    "status": "qualified_with_source",
+    "evidence_ids": [
+      "evidence_0040"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
+    "updated_at": "2026-11-05",
     "source_relation_kind": "rôle / position"
   },
   {
@@ -425,12 +373,14 @@
     "target_id": "actor_0032",
     "type": "associated_with",
     "summary": "rôle / position — lien présenté dans le réseau source fourni ; sa nature factuelle exacte reste à qualifier à partir des documents.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "certainty": "high",
+    "status": "qualified_with_source",
+    "evidence_ids": [
+      "evidence_0042"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
+    "updated_at": "2026-11-05",
     "source_relation_kind": "rôle / position"
   },
   {
@@ -438,70 +388,16 @@
     "source_id": "project_escaudain",
     "target_id": "actor_0033",
     "type": "associated_with",
-    "summary": "rôle / position — lien présenté dans le réseau source fourni ; sa nature factuelle exacte reste à qualifier à partir des documents.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "summary": "Enquête publique programmée sur le PLUi : situation future à la date d’arrêté.",
+    "certainty": "high",
+    "status": "qualified_with_source",
+    "evidence_ids": [
+      "evidence_0036"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
+    "updated_at": "2026-11-05",
     "source_relation_kind": "rôle / position"
-  },
-  {
-    "id": "relation_0033",
-    "source_id": "project_escaudain",
-    "target_id": "actor_0034",
-    "type": "associated_with",
-    "summary": "rôle / position — lien présenté dans le réseau source fourni ; sa nature factuelle exacte reste à qualifier à partir des documents.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
-    "valid_from": null,
-    "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "rôle / position"
-  },
-  {
-    "id": "relation_0034",
-    "source_id": "project_escaudain",
-    "target_id": "actor_0002",
-    "type": "associated_with",
-    "summary": "interaction / rattachement — lien présenté dans le réseau source fourni ; sa nature factuelle exacte reste à qualifier à partir des documents.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
-    "valid_from": null,
-    "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "interaction / rattachement"
-  },
-  {
-    "id": "relation_0035",
-    "source_id": "project_escaudain",
-    "target_id": "actor_0003",
-    "type": "associated_with",
-    "summary": "interaction / rattachement — lien présenté dans le réseau source fourni ; sa nature factuelle exacte reste à qualifier à partir des documents.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
-    "valid_from": null,
-    "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "interaction / rattachement"
-  },
-  {
-    "id": "relation_0036",
-    "source_id": "project_escaudain",
-    "target_id": "actor_0004",
-    "type": "associated_with",
-    "summary": "interaction / rattachement — lien présenté dans le réseau source fourni ; sa nature factuelle exacte reste à qualifier à partir des documents.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
-    "valid_from": null,
-    "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "interaction / rattachement"
   },
   {
     "id": "relation_0037",
@@ -509,12 +405,14 @@
     "target_id": "actor_0008",
     "type": "associated_with",
     "summary": "interaction / rattachement — lien présenté dans le réseau source fourni ; sa nature factuelle exacte reste à qualifier à partir des documents.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "certainty": "high",
+    "status": "qualified_with_source",
+    "evidence_ids": [
+      "evidence_0001"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
+    "updated_at": "2026-11-05",
     "source_relation_kind": "interaction / rattachement"
   },
   {
@@ -523,12 +421,14 @@
     "target_id": "actor_0009",
     "type": "associated_with",
     "summary": "interaction / rattachement — lien présenté dans le réseau source fourni ; sa nature factuelle exacte reste à qualifier à partir des documents.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "certainty": "high",
+    "status": "qualified_with_source",
+    "evidence_ids": [
+      "evidence_0001"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
+    "updated_at": "2026-11-05",
     "source_relation_kind": "interaction / rattachement"
   },
   {
@@ -537,12 +437,14 @@
     "target_id": "actor_0025",
     "type": "associated_with",
     "summary": "interaction / rattachement — lien présenté dans le réseau source fourni ; sa nature factuelle exacte reste à qualifier à partir des documents.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "certainty": "high",
+    "status": "qualified_with_source",
+    "evidence_ids": [
+      "evidence_0001"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
+    "updated_at": "2026-11-05",
     "source_relation_kind": "interaction / rattachement"
   },
   {
@@ -551,12 +453,14 @@
     "target_id": "actor_0004",
     "type": "associated_with",
     "summary": "interaction / rattachement — lien présenté dans le réseau source fourni ; sa nature factuelle exacte reste à qualifier à partir des documents.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "certainty": "high",
+    "status": "qualified_with_source",
+    "evidence_ids": [
+      "evidence_0039"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
+    "updated_at": "2026-11-05",
     "source_relation_kind": "interaction / rattachement"
   },
   {
@@ -564,13 +468,15 @@
     "source_id": "actor_0006",
     "target_id": "actor_0003",
     "type": "associated_with",
-    "summary": "interaction / rattachement — lien présenté dans le réseau source fourni ; sa nature factuelle exacte reste à qualifier à partir des documents.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "summary": "Bruno Saligot a été maire jusqu’aux municipales 2026, puis conseiller municipal.",
+    "certainty": "high",
+    "status": "qualified_with_source",
+    "evidence_ids": [
+      "evidence_0046"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
+    "updated_at": "2026-11-05",
     "source_relation_kind": "interaction / rattachement"
   },
   {
@@ -579,54 +485,14 @@
     "target_id": "actor_0025",
     "type": "associated_with",
     "summary": "interaction / rattachement — lien présenté dans le réseau source fourni ; sa nature factuelle exacte reste à qualifier à partir des documents.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "certainty": "high",
+    "status": "qualified_with_source",
+    "evidence_ids": [
+      "evidence_0002"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "interaction / rattachement"
-  },
-  {
-    "id": "relation_0043",
-    "source_id": "actor_0006",
-    "target_id": "actor_0026",
-    "type": "associated_with",
-    "summary": "interaction / rattachement — lien présenté dans le réseau source fourni ; sa nature factuelle exacte reste à qualifier à partir des documents.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
-    "valid_from": null,
-    "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "interaction / rattachement"
-  },
-  {
-    "id": "relation_0044",
-    "source_id": "actor_0006",
-    "target_id": "actor_0027",
-    "type": "associated_with",
-    "summary": "interaction / rattachement — lien présenté dans le réseau source fourni ; sa nature factuelle exacte reste à qualifier à partir des documents.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
-    "valid_from": null,
-    "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "interaction / rattachement"
-  },
-  {
-    "id": "relation_0045",
-    "source_id": "actor_0006",
-    "target_id": "actor_0028",
-    "type": "associated_with",
-    "summary": "interaction / rattachement — lien présenté dans le réseau source fourni ; sa nature factuelle exacte reste à qualifier à partir des documents.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
-    "valid_from": null,
-    "valid_to": null,
-    "updated_at": "2026-10-09",
+    "updated_at": "2026-11-05",
     "source_relation_kind": "interaction / rattachement"
   },
   {
@@ -635,12 +501,14 @@
     "target_id": "actor_0017",
     "type": "associated_with",
     "summary": "interaction / rattachement — lien présenté dans le réseau source fourni ; sa nature factuelle exacte reste à qualifier à partir des documents.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "certainty": "high",
+    "status": "qualified_with_source",
+    "evidence_ids": [
+      "evidence_0003"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
+    "updated_at": "2026-11-05",
     "source_relation_kind": "interaction / rattachement"
   },
   {
@@ -649,12 +517,14 @@
     "target_id": "actor_0019",
     "type": "associated_with",
     "summary": "interaction / rattachement — lien présenté dans le réseau source fourni ; sa nature factuelle exacte reste à qualifier à partir des documents.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "certainty": "high",
+    "status": "qualified_with_source",
+    "evidence_ids": [
+      "evidence_0003"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
+    "updated_at": "2026-11-05",
     "source_relation_kind": "interaction / rattachement"
   },
   {
@@ -663,12 +533,14 @@
     "target_id": "actor_0010",
     "type": "associated_with",
     "summary": "interaction / rattachement — lien présenté dans le réseau source fourni ; sa nature factuelle exacte reste à qualifier à partir des documents.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "certainty": "high",
+    "status": "qualified_with_source",
+    "evidence_ids": [
+      "evidence_0005"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
+    "updated_at": "2026-11-05",
     "source_relation_kind": "interaction / rattachement"
   },
   {
@@ -677,12 +549,14 @@
     "target_id": "actor_0011",
     "type": "associated_with",
     "summary": "interaction / rattachement — lien présenté dans le réseau source fourni ; sa nature factuelle exacte reste à qualifier à partir des documents.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "certainty": "high",
+    "status": "qualified_with_source",
+    "evidence_ids": [
+      "evidence_0006"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
+    "updated_at": "2026-11-05",
     "source_relation_kind": "interaction / rattachement"
   },
   {
@@ -691,12 +565,14 @@
     "target_id": "actor_0012",
     "type": "associated_with",
     "summary": "interaction / rattachement — lien présenté dans le réseau source fourni ; sa nature factuelle exacte reste à qualifier à partir des documents.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "certainty": "high",
+    "status": "qualified_with_source",
+    "evidence_ids": [
+      "evidence_0007"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
+    "updated_at": "2026-11-05",
     "source_relation_kind": "interaction / rattachement"
   },
   {
@@ -704,13 +580,15 @@
     "source_id": "actor_0008",
     "target_id": "actor_0013",
     "type": "associated_with",
-    "summary": "interaction / rattachement — lien présenté dans le réseau source fourni ; sa nature factuelle exacte reste à qualifier à partir des documents.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "summary": "AWS figurait parmi les candidats à l’AMI, sans être retenu.",
+    "certainty": "high",
+    "status": "qualified_with_source",
+    "evidence_ids": [
+      "evidence_0008"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
+    "updated_at": "2026-11-05",
     "source_relation_kind": "interaction / rattachement"
   },
   {
@@ -719,12 +597,14 @@
     "target_id": "actor_0011",
     "type": "associated_with",
     "summary": "interaction / rattachement — lien présenté dans le réseau source fourni ; sa nature factuelle exacte reste à qualifier à partir des documents.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "certainty": "high",
+    "status": "qualified_with_source",
+    "evidence_ids": [
+      "evidence_0005"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
+    "updated_at": "2026-11-05",
     "source_relation_kind": "interaction / rattachement"
   },
   {
@@ -733,12 +613,14 @@
     "target_id": "actor_0012",
     "type": "associated_with",
     "summary": "interaction / rattachement — lien présenté dans le réseau source fourni ; sa nature factuelle exacte reste à qualifier à partir des documents.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "certainty": "high",
+    "status": "qualified_with_source",
+    "evidence_ids": [
+      "evidence_0005"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
+    "updated_at": "2026-11-05",
     "source_relation_kind": "interaction / rattachement"
   },
   {
@@ -747,12 +629,14 @@
     "target_id": "actor_0012",
     "type": "associated_with",
     "summary": "interaction / rattachement — lien présenté dans le réseau source fourni ; sa nature factuelle exacte reste à qualifier à partir des documents.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "certainty": "high",
+    "status": "qualified_with_source",
+    "evidence_ids": [
+      "evidence_0006"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
+    "updated_at": "2026-11-05",
     "source_relation_kind": "interaction / rattachement"
   },
   {
@@ -760,13 +644,15 @@
     "source_id": "actor_0015",
     "target_id": "actor_0017",
     "type": "associated_with",
-    "summary": "interaction / rattachement — lien présenté dans le réseau source fourni ; sa nature factuelle exacte reste à qualifier à partir des documents.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "summary": "Mastaing est mentionné pour l’acheminement potentiel de puissance électrique via RTE.",
+    "certainty": "high",
+    "status": "qualified_with_source",
+    "evidence_ids": [
+      "evidence_0003"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
+    "updated_at": "2026-11-05",
     "source_relation_kind": "interaction / rattachement"
   },
   {
@@ -774,13 +660,15 @@
     "source_id": "actor_0015",
     "target_id": "actor_0019",
     "type": "associated_with",
-    "summary": "interaction / rattachement — lien présenté dans le réseau source fourni ; sa nature factuelle exacte reste à qualifier à partir des documents.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "summary": "La capacité brute de 700 MW reste une cible, non un raccordement confirmé.",
+    "certainty": "high",
+    "status": "qualified_with_source",
+    "evidence_ids": [
+      "evidence_0009"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
+    "updated_at": "2026-11-05",
     "source_relation_kind": "interaction / rattachement"
   },
   {
@@ -789,12 +677,14 @@
     "target_id": "actor_0030",
     "type": "associated_with",
     "summary": "interaction / rattachement — lien présenté dans le réseau source fourni ; sa nature factuelle exacte reste à qualifier à partir des documents.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "certainty": "high",
+    "status": "qualified_with_source",
+    "evidence_ids": [
+      "evidence_0009"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
+    "updated_at": "2026-11-05",
     "source_relation_kind": "interaction / rattachement"
   },
   {
@@ -803,82 +693,14 @@
     "target_id": "actor_0015",
     "type": "associated_with",
     "summary": "interaction / rattachement — lien présenté dans le réseau source fourni ; sa nature factuelle exacte reste à qualifier à partir des documents.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "certainty": "high",
+    "status": "qualified_with_source",
+    "evidence_ids": [
+      "evidence_0010"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "interaction / rattachement"
-  },
-  {
-    "id": "relation_0059",
-    "source_id": "actor_0020",
-    "target_id": "actor_0015",
-    "type": "associated_with",
-    "summary": "interaction / rattachement — lien présenté dans le réseau source fourni ; sa nature factuelle exacte reste à qualifier à partir des documents.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
-    "valid_from": null,
-    "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "interaction / rattachement"
-  },
-  {
-    "id": "relation_0060",
-    "source_id": "actor_0020",
-    "target_id": "actor_0022",
-    "type": "associated_with",
-    "summary": "interaction / rattachement — lien présenté dans le réseau source fourni ; sa nature factuelle exacte reste à qualifier à partir des documents.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
-    "valid_from": null,
-    "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "interaction / rattachement"
-  },
-  {
-    "id": "relation_0061",
-    "source_id": "actor_0020",
-    "target_id": "actor_0023",
-    "type": "associated_with",
-    "summary": "interaction / rattachement — lien présenté dans le réseau source fourni ; sa nature factuelle exacte reste à qualifier à partir des documents.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
-    "valid_from": null,
-    "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "interaction / rattachement"
-  },
-  {
-    "id": "relation_0062",
-    "source_id": "actor_0021",
-    "target_id": "actor_0022",
-    "type": "associated_with",
-    "summary": "interaction / rattachement — lien présenté dans le réseau source fourni ; sa nature factuelle exacte reste à qualifier à partir des documents.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
-    "valid_from": null,
-    "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "interaction / rattachement"
-  },
-  {
-    "id": "relation_0063",
-    "source_id": "actor_0030",
-    "target_id": "actor_0031",
-    "type": "associated_with",
-    "summary": "interaction / rattachement — lien présenté dans le réseau source fourni ; sa nature factuelle exacte reste à qualifier à partir des documents.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
-    "valid_from": null,
-    "valid_to": null,
-    "updated_at": "2026-10-09",
+    "updated_at": "2026-11-05",
     "source_relation_kind": "interaction / rattachement"
   },
   {
@@ -887,26 +709,14 @@
     "target_id": "actor_0025",
     "type": "associated_with",
     "summary": "interaction / rattachement — lien présenté dans le réseau source fourni ; sa nature factuelle exacte reste à qualifier à partir des documents.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "certainty": "high",
+    "status": "qualified_with_source",
+    "evidence_ids": [
+      "evidence_0042"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "interaction / rattachement"
-  },
-  {
-    "id": "relation_0065",
-    "source_id": "actor_0033",
-    "target_id": "actor_0034",
-    "type": "associated_with",
-    "summary": "interaction / rattachement — lien présenté dans le réseau source fourni ; sa nature factuelle exacte reste à qualifier à partir des documents.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
-    "valid_from": null,
-    "valid_to": null,
-    "updated_at": "2026-10-09",
+    "updated_at": "2026-11-05",
     "source_relation_kind": "interaction / rattachement"
   },
   {
@@ -915,54 +725,14 @@
     "target_id": "actor_0014",
     "type": "associated_with",
     "summary": "interaction / rattachement — lien présenté dans le réseau source fourni ; sa nature factuelle exacte reste à qualifier à partir des documents.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "certainty": "high",
+    "status": "qualified_with_source",
+    "evidence_ids": [
+      "evidence_0038"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "interaction / rattachement"
-  },
-  {
-    "id": "relation_0067",
-    "source_id": "actor_0029",
-    "target_id": "actor_0026",
-    "type": "associated_with",
-    "summary": "interaction / rattachement — lien présenté dans le réseau source fourni ; sa nature factuelle exacte reste à qualifier à partir des documents.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
-    "valid_from": null,
-    "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "interaction / rattachement"
-  },
-  {
-    "id": "relation_0068",
-    "source_id": "actor_0029",
-    "target_id": "actor_0027",
-    "type": "associated_with",
-    "summary": "interaction / rattachement — lien présenté dans le réseau source fourni ; sa nature factuelle exacte reste à qualifier à partir des documents.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
-    "valid_from": null,
-    "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "interaction / rattachement"
-  },
-  {
-    "id": "relation_0069",
-    "source_id": "actor_0029",
-    "target_id": "actor_0028",
-    "type": "associated_with",
-    "summary": "interaction / rattachement — lien présenté dans le réseau source fourni ; sa nature factuelle exacte reste à qualifier à partir des documents.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
-    "valid_from": null,
-    "valid_to": null,
-    "updated_at": "2026-10-09",
+    "updated_at": "2026-11-05",
     "source_relation_kind": "interaction / rattachement"
   },
   {
@@ -971,12 +741,14 @@
     "target_id": "actor_0035",
     "type": "covered_by",
     "summary": "source / couverture — lien présenté dans le réseau source fourni ; sa nature factuelle exacte reste à qualifier à partir des documents.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "certainty": "high",
+    "status": "qualified_with_source",
+    "evidence_ids": [
+      "evidence_0007"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
+    "updated_at": "2026-11-05",
     "source_relation_kind": "source / couverture"
   },
   {
@@ -985,12 +757,14 @@
     "target_id": "actor_0036",
     "type": "covered_by",
     "summary": "source / couverture — lien présenté dans le réseau source fourni ; sa nature factuelle exacte reste à qualifier à partir des documents.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "certainty": "high",
+    "status": "qualified_with_source",
+    "evidence_ids": [
+      "evidence_0008"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
+    "updated_at": "2026-11-05",
     "source_relation_kind": "source / couverture"
   },
   {
@@ -999,12 +773,14 @@
     "target_id": "actor_0037",
     "type": "covered_by",
     "summary": "source / couverture — lien présenté dans le réseau source fourni ; sa nature factuelle exacte reste à qualifier à partir des documents.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "certainty": "high",
+    "status": "qualified_with_source",
+    "evidence_ids": [
+      "evidence_0003"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
+    "updated_at": "2026-11-05",
     "source_relation_kind": "source / couverture"
   },
   {
@@ -1013,12 +789,14 @@
     "target_id": "actor_0038",
     "type": "covered_by",
     "summary": "source / couverture — lien présenté dans le réseau source fourni ; sa nature factuelle exacte reste à qualifier à partir des documents.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "certainty": "high",
+    "status": "qualified_with_source",
+    "evidence_ids": [
+      "evidence_0042"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
+    "updated_at": "2026-11-05",
     "source_relation_kind": "source / couverture"
   },
   {
@@ -1027,12 +805,14 @@
     "target_id": "actor_0039",
     "type": "covered_by",
     "summary": "source / couverture — lien présenté dans le réseau source fourni ; sa nature factuelle exacte reste à qualifier à partir des documents.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "certainty": "high",
+    "status": "qualified_with_source",
+    "evidence_ids": [
+      "evidence_0042"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
+    "updated_at": "2026-11-05",
     "source_relation_kind": "source / couverture"
   },
   {
@@ -1041,12 +821,14 @@
     "target_id": "actor_0040",
     "type": "covered_by",
     "summary": "source / couverture — lien présenté dans le réseau source fourni ; sa nature factuelle exacte reste à qualifier à partir des documents.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "certainty": "high",
+    "status": "qualified_with_source",
+    "evidence_ids": [
+      "evidence_0044"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
+    "updated_at": "2026-11-05",
     "source_relation_kind": "source / couverture"
   },
   {
@@ -1055,68 +837,46 @@
     "target_id": "actor_0041",
     "type": "covered_by",
     "summary": "source / couverture — lien présenté dans le réseau source fourni ; sa nature factuelle exacte reste à qualifier à partir des documents.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "certainty": "high",
+    "status": "qualified_with_source",
+    "evidence_ids": [
+      "evidence_0012"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
+    "updated_at": "2026-11-05",
     "source_relation_kind": "source / couverture"
-  },
-  {
-    "id": "relation_0077",
-    "source_id": "project_escaudain",
-    "target_id": "actor_0042",
-    "type": "critical_analysis",
-    "summary": "analyse critique macro — lien présenté dans le réseau source fourni ; sa nature factuelle exacte reste à qualifier à partir des documents.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
-    "valid_from": null,
-    "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "analyse critique macro"
-  },
-  {
-    "id": "relation_0078",
-    "source_id": "project_escaudain",
-    "target_id": "actor_0043",
-    "type": "regional_competition",
-    "summary": "concurrence régionale — lien présenté dans le réseau source fourni ; sa nature factuelle exacte reste à qualifier à partir des documents.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
-    "valid_from": null,
-    "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "concurrence régionale"
   },
   {
     "id": "relation_0079",
     "source_id": "project_escaudain",
     "target_id": "actor_0044",
-    "type": "regional_competition",
-    "summary": "concurrence régionale — lien présenté dans le réseau source fourni ; sa nature factuelle exacte reste à qualifier à partir des documents.",
+    "type": "context_mention",
+    "summary": "SoftBank porte des projets distincts en région ; contexte, aucun partenariat direct avec Data4.",
     "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "status": "qualified_with_source",
+    "evidence_ids": [
+      "evidence_0029"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
+    "updated_at": "2026-11-05",
     "source_relation_kind": "concurrence régionale"
   },
   {
     "id": "relation_0080",
     "source_id": "project_escaudain",
     "target_id": "actor_0045",
-    "type": "supports",
-    "summary": "soutien politique — lien présenté dans le réseau source fourni ; sa nature factuelle exacte reste à qualifier à partir des documents.",
+    "type": "context_mention",
+    "summary": "Xavier Bertrand valorise la dynamique régionale IA ; ne prouve pas un engagement contractuel sur Escaudain.",
     "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "status": "qualified_with_source",
+    "evidence_ids": [
+      "evidence_0022"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
+    "updated_at": "2026-11-05",
     "source_relation_kind": "soutien politique"
   },
   {
@@ -1125,12 +885,14 @@
     "target_id": "actor_0012",
     "type": "represents",
     "summary": "Olivier Micheli est identifié comme président et CEO de Data4.",
-    "certainty": "medium",
-    "status": "contextual_from_provided_actor_cards",
-    "evidence_ids": [],
+    "certainty": "high",
+    "status": "qualified_with_source",
+    "evidence_ids": [
+      "evidence_0023"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
+    "updated_at": "2026-11-05",
     "source_relation_kind": "rattachement dans la fiche"
   },
   {
@@ -1139,12 +901,14 @@
     "target_id": "actor_0049",
     "type": "represents",
     "summary": "Présidence de la République et action de l’exécutif citées dans le corpus.",
-    "certainty": "medium",
-    "status": "contextual_from_provided_actor_cards",
-    "evidence_ids": [],
+    "certainty": "high",
+    "status": "qualified_with_source",
+    "evidence_ids": [
+      "evidence_0024"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
+    "updated_at": "2026-11-05",
     "source_relation_kind": "rattachement institutionnel"
   },
   {
@@ -1153,12 +917,14 @@
     "target_id": "actor_0045",
     "type": "represents",
     "summary": "Xavier Bertrand est identifié comme président de la Région Hauts-de-France.",
-    "certainty": "medium",
-    "status": "contextual_from_provided_actor_cards",
-    "evidence_ids": [],
+    "certainty": "high",
+    "status": "qualified_with_source",
+    "evidence_ids": [
+      "evidence_0022"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
+    "updated_at": "2026-11-05",
     "source_relation_kind": "rattachement dans la fiche"
   },
   {
@@ -1166,42 +932,16 @@
     "source_id": "actor_0049",
     "target_id": "project_escaudain",
     "type": "supports",
-    "summary": "L’exécutif national est présenté comme facilitateur du projet, notamment par la procédure de raccordement prioritaire.",
-    "certainty": "medium",
-    "status": "contextual_from_provided_actor_cards",
-    "evidence_ids": [],
+    "summary": "Le dispositif national Fast Track a été utilisé pour Escaudain, sans dispenser des procédures d’autorisation.",
+    "certainty": "high",
+    "status": "qualified_with_source",
+    "evidence_ids": [
+      "evidence_0026"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
+    "updated_at": "2026-11-05",
     "source_relation_kind": "mention politique du projet"
-  },
-  {
-    "id": "relation_0085",
-    "source_id": "actor_0050",
-    "target_id": "actor_0049",
-    "type": "represents",
-    "summary": "Le préfet du Nord est décrit comme représentant de l’État.",
-    "certainty": "medium",
-    "status": "contextual_from_provided_actor_cards",
-    "evidence_ids": [],
-    "valid_from": null,
-    "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "rattachement institutionnel"
-  },
-  {
-    "id": "relation_0086",
-    "source_id": "actor_0051",
-    "target_id": "actor_0044",
-    "type": "alias_of",
-    "summary": "Deux graphies de SoftBank désignent le même groupe dans les deux jeux de données transmis. Les deux fiches sont conservées pour préserver leurs formulations d’origine.",
-    "certainty": "medium",
-    "status": "contextual_from_provided_actor_cards",
-    "evidence_ids": [],
-    "valid_from": null,
-    "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "variante de dénomination"
   },
   {
     "id": "relation_0087",
@@ -1209,54 +949,181 @@
     "target_id": "actor_0044",
     "type": "represents",
     "summary": "Masayoshi Son est présenté comme fondateur de SoftBank.",
-    "certainty": "medium",
-    "status": "contextual_from_provided_actor_cards",
-    "evidence_ids": [],
+    "certainty": "high",
+    "status": "qualified_with_source",
+    "evidence_ids": [
+      "evidence_0029"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
+    "updated_at": "2026-11-05",
     "source_relation_kind": "rattachement dans la fiche"
-  },
-  {
-    "id": "relation_0088",
-    "source_id": "actor_0053",
-    "target_id": "actor_0044",
-    "type": "context_mention",
-    "summary": "Le corpus mentionne l’abandon d’un projet Fluidstack et la substitution d’un autre projet régional par SoftBank, sans affirmer un lien contractuel local avec Escaudain.",
-    "certainty": "medium",
-    "status": "contextual_from_provided_actor_cards",
-    "evidence_ids": [],
-    "valid_from": null,
-    "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "mise en perspective régionale"
-  },
-  {
-    "id": "relation_0089",
-    "source_id": "actor_0055",
-    "target_id": "actor_0044",
-    "type": "alias_of",
-    "summary": "Dénomination composite du groupe SoftBank dans les fiches ; cette variante est conservée pour éviter la perte d’information.",
-    "certainty": "medium",
-    "status": "contextual_from_provided_actor_cards",
-    "evidence_ids": [],
-    "valid_from": null,
-    "valid_to": null,
-    "updated_at": "2026-10-09",
-    "source_relation_kind": "variante de dénomination"
   },
   {
     "id": "relation_0090",
     "source_id": "actor_0054",
     "target_id": "project_escaudain",
     "type": "context_mention",
-    "summary": "Étude générale sur les données et la souveraineté numérique citée à l’appui des enjeux du secteur ; aucune implication opérationnelle dans le projet local n’est établie.",
+    "summary": "Une étude nationale de l’Institut Montaigne est citée par Data4, sans soutien formel à Escaudain.",
     "certainty": "medium",
-    "status": "contextual_from_provided_actor_cards",
-    "evidence_ids": [],
+    "status": "qualified_with_source",
+    "evidence_ids": [
+      "evidence_0031"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09",
+    "updated_at": "2026-11-05",
     "source_relation_kind": "étude de contexte"
+  },
+  {
+    "id": "relation_0091",
+    "source_id": "actor_0056",
+    "target_id": "actor_0003",
+    "type": "represents",
+    "summary": "Catherine Mercier est maire d’Escaudain depuis mars 2026 ; aucune position sur le data center n’est déduite.",
+    "certainty": "high",
+    "status": "qualified_with_source",
+    "evidence_ids": [
+      "evidence_0033",
+      "evidence_0034"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-05"
+  },
+  {
+    "id": "relation_0092",
+    "source_id": "actor_0008",
+    "target_id": "actor_0057",
+    "type": "participates_in",
+    "summary": "La Porte du Hainaut porte la procédure de modification n°3 du PLUi.",
+    "certainty": "high",
+    "status": "qualified_with_source",
+    "evidence_ids": [
+      "evidence_0035"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-05"
+  },
+  {
+    "id": "relation_0093",
+    "source_id": "actor_0057",
+    "target_id": "project_escaudain",
+    "type": "associated_with",
+    "summary": "La modification du PLUi permettrait l’ouverture à l’urbanisation du foncier destiné au campus.",
+    "certainty": "high",
+    "status": "qualified_with_source",
+    "evidence_ids": [
+      "evidence_0035"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-05"
+  },
+  {
+    "id": "relation_0094",
+    "source_id": "actor_0058",
+    "target_id": "actor_0057",
+    "type": "associated_with",
+    "summary": "L’enquête publique sur le PLUi se tiendra du 10 novembre au 10 décembre 2026.",
+    "certainty": "high",
+    "status": "qualified_with_source",
+    "evidence_ids": [
+      "evidence_0036"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-05"
+  },
+  {
+    "id": "relation_0095",
+    "source_id": "actor_0008",
+    "target_id": "actor_0058",
+    "type": "participates_in",
+    "summary": "La Porte du Hainaut organise l’enquête publique sur la modification du PLUi.",
+    "certainty": "high",
+    "status": "qualified_with_source",
+    "evidence_ids": [
+      "evidence_0036"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-05"
+  },
+  {
+    "id": "relation_0096",
+    "source_id": "actor_0012",
+    "target_id": "actor_0059",
+    "type": "associated_with",
+    "summary": "Data4 annonce « Data4 Pour Tous » comme pôle de formation, recherche et entrepreneuriat.",
+    "certainty": "high",
+    "status": "qualified_with_source",
+    "evidence_ids": [
+      "evidence_0039"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-05"
+  },
+  {
+    "id": "relation_0097",
+    "source_id": "actor_0059",
+    "target_id": "actor_0004",
+    "type": "associated_with",
+    "summary": "Initiative de formation annoncée pour l’écosystème numérique local.",
+    "certainty": "high",
+    "status": "qualified_with_source",
+    "evidence_ids": [
+      "evidence_0039"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-05"
+  },
+  {
+    "id": "relation_0098",
+    "source_id": "project_escaudain",
+    "target_id": "actor_0060",
+    "type": "covered_by",
+    "summary": "Mediacités enquête le 19 juin 2026 sur les conditions de sélection du site.",
+    "certainty": "high",
+    "status": "qualified_with_source",
+    "evidence_ids": [
+      "evidence_0045"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-05"
+  },
+  {
+    "id": "relation_0099",
+    "source_id": "project_escaudain",
+    "target_id": "actor_0058",
+    "type": "associated_with",
+    "summary": "Le projet reste soumis à une étape d’enquête publique encore future au 5 novembre 2026.",
+    "certainty": "high",
+    "status": "qualified_with_source",
+    "evidence_ids": [
+      "evidence_0036"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-05"
+  },
+  {
+    "id": "relation_0100",
+    "source_id": "actor_0008",
+    "target_id": "actor_0010",
+    "type": "associated_with",
+    "summary": "La collectivité évoque 10 Md€ d’investissements territoriaux par Brookfield et Data4, périmètre à vérifier.",
+    "certainty": "medium",
+    "status": "qualified_with_source",
+    "evidence_ids": [
+      "evidence_0037"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-05"
   }
 ]

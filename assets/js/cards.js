@@ -12,4 +12,4 @@ griefGrid.innerHTML=synthesis.griefs.length?synthesis.griefs.map(g=>`<article cl
 // Le texte d'origine autorise seulement des balises <strong> pour les intitulés.
 const safeRich=t=>esc(t).replace(/&lt;strong&gt;/g,'<strong>').replace(/&lt;\/strong&gt;/g,'</strong>');
 document.getElementById('vigilance').innerHTML=synthesis.vigilance.map(t=>`<li>${safeRich(t)}</li>`).join('');
-document.getElementById('sources').innerHTML=synthesis.sources.map(t=>`<li>${safeRich(t)}</li>`).join('');
+document.getElementById('sources').innerHTML=d.sources.filter(s=>s.url&&s.status==='qualified').map(s=>`<li><a href="${esc(s.url)}" target="_blank" rel="noopener noreferrer">${esc(s.publisher||'Source')} — ${esc(s.title)}</a></li>`).join('');

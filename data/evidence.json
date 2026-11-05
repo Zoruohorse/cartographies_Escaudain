@@ -2,289 +2,441 @@
   {
     "id": "evidence_0001",
     "type": "reported_summary",
-    "text": "Défend politiquement et publiquement le projet comme levier de réindustrialisation.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
+    "text": "Résumé documenté : Aymeric Robin porte publiquement le projet comme reconversion industrielle des Soufflantes et projet de formation.",
+    "source_id": "source_0016",
+    "source_status": "qualified",
+    "published_at": "2026-06-12",
+    "accessed_at": "2026-11-05",
+    "source_location": "Texte ou extrait du document cité ; l'attribution au projet est limitée au contenu de la source."
   },
   {
     "id": "evidence_0002",
     "type": "reported_summary",
-    "text": "Soutien assumé et communication sur les volumes d'emplois locaux.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
+    "text": "Résumé documenté : Bruno Saligot soutenait le campus en décembre 2025 en qualité de maire ; il a perdu ce mandat en mars 2026.",
+    "source_id": "source_0003",
+    "source_status": "qualified",
+    "published_at": "2025-12-15",
+    "accessed_at": "2026-11-05",
+    "source_location": "Texte ou extrait du document cité ; l'attribution au projet est limitée au contenu de la source."
   },
   {
     "id": "evidence_0003",
     "type": "reported_summary",
-    "text": "Argumentation technique officielle de l'agglomération.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
+    "text": "Résumé documenté : Émilie Gérard met en avant la proximité du poste de Mastaing et l’objectif de 700 MW à terme ; ne confirme aucun raccordement déjà opérationnel.",
+    "source_id": "source_0003",
+    "source_status": "qualified",
+    "published_at": "2025-12-15",
+    "accessed_at": "2026-11-05",
+    "source_location": "Texte ou extrait du document cité ; l'attribution au projet est limitée au contenu de la source."
   },
   {
     "id": "evidence_0004",
     "type": "reported_summary",
-    "text": "Validation institutionnelle du consortium (Data4, Brookfield, BT Immo).",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
+    "text": "Résumé documenté : La Porte du Hainaut a choisi Data4 comme partenaire exclusif et soutient la reconversion numérique du site.",
+    "source_id": "source_0016",
+    "source_status": "qualified",
+    "published_at": "2026-06-12",
+    "accessed_at": "2026-11-05",
+    "source_location": "Texte ou extrait du document cité ; l'attribution au projet est limitée au contenu de la source."
   },
   {
     "id": "evidence_0005",
     "type": "reported_summary",
-    "text": "Engagement financier en tant que membre du consortium validé.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
+    "text": "Résumé documenté : Brookfield est membre du consortium sélectionné avec BT Immo et Data4.",
+    "source_id": "source_0008",
+    "source_status": "qualified",
+    "published_at": "2026-06-19",
+    "accessed_at": "2026-11-05",
+    "source_location": "Texte ou extrait du document cité ; l'attribution au projet est limitée au contenu de la source."
   },
   {
     "id": "evidence_0006",
     "type": "reported_summary",
-    "text": "Engagement opérationnel sur le volet foncier et constructif.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
+    "text": "Résumé documenté : BT Immo est mentionné comme promoteur associé au consortium sélectionné.",
+    "source_id": "source_0008",
+    "source_status": "qualified",
+    "published_at": "2026-06-19",
+    "accessed_at": "2026-11-05",
+    "source_location": "Texte ou extrait du document cité ; l'attribution au projet est limitée au contenu de la source."
   },
   {
     "id": "evidence_0007",
     "type": "reported_summary",
-    "text": "Déploiement et exploitation technique de l'infrastructure.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
+    "text": "Résumé documenté : Data4 confirme le projet d’Escaudain le 12 juin 2026 : quatre bâtiments, 33 ha, 700 MW bruts visés et 5 Md€ annoncés.",
+    "source_id": "source_0016",
+    "source_status": "qualified",
+    "published_at": "2026-06-12",
+    "accessed_at": "2026-11-05",
+    "source_location": "Texte ou extrait du document cité ; l'attribution au projet est limitée au contenu de la source."
   },
   {
     "id": "evidence_0008",
     "type": "reported_summary",
-    "text": "A manifesté son intérêt mais n'est pas le porteur final.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
+    "text": "Résumé documenté : AWS est cité parmi les candidats à l’appel à manifestation d’intérêt de 2025, mais n’est pas le lauréat.",
+    "source_id": "source_0002",
+    "source_status": "qualified",
+    "published_at": "2025-12-15",
+    "accessed_at": "2026-11-05",
+    "source_location": "Texte ou extrait du document cité ; l'attribution au projet est limitée au contenu de la source."
   },
   {
     "id": "evidence_0009",
     "type": "reported_summary",
-    "text": "Intervention sur les capacités d'alimentation Fast Track.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
+    "text": "Résumé documenté : RTE est associé au dispositif Fast Track du site ; l’annonce de 700 MW ne prouve pas l’achèvement du raccordement.",
+    "source_id": "source_0016",
+    "source_status": "qualified",
+    "published_at": "2026-06-12",
+    "accessed_at": "2026-11-05",
+    "source_location": "Texte ou extrait du document cité ; l'attribution au projet est limitée au contenu de la source."
   },
   {
     "id": "evidence_0010",
     "type": "reported_summary",
-    "text": "Supervision des processus de raccordement des sites intensifs.",
-    "source_id": null,
-    "source_status": "to_qualify",
+    "text": "Résumé documenté : Nathalie Lemaître intervient sur la politique générale de raccordement RTE, sans implication personnelle précise démontrée à Escaudain.",
+    "source_id": "source_0025",
+    "source_status": "qualified",
     "published_at": null,
-    "accessed_at": null
+    "accessed_at": "2026-11-05",
+    "source_location": "Texte ou extrait du document cité ; l'attribution au projet est limitée au contenu de la source."
   },
   {
     "id": "evidence_0011",
     "type": "reported_summary",
-    "text": "Participant aux concertations techniques régionales.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
+    "text": "Résumé documenté : Enedis est cité dans des réunions pour le projet e-Valley près de Cambrai : pas de participation opérationnelle démontrée à Escaudain.",
+    "source_id": "source_0002",
+    "source_status": "qualified",
+    "published_at": "2025-12-15",
+    "accessed_at": "2026-11-05",
+    "source_location": "Texte ou extrait du document cité ; l'attribution au projet est limitée au contenu de la source."
   },
   {
     "id": "evidence_0012",
     "type": "reported_summary",
-    "text": "Caution politique sectorielle au sommet de l'État.",
-    "source_id": null,
-    "source_status": "to_qualify",
+    "text": "Résumé documenté : Anne Le Hénanff pilote des actions nationales sur les data centers ; son soutien personnel spécifique à Escaudain n’est pas établi.",
+    "source_id": "source_0007",
+    "source_status": "qualified",
     "published_at": null,
-    "accessed_at": null
+    "accessed_at": "2026-11-05",
+    "source_location": "Texte ou extrait du document cité ; l'attribution au projet est limitée au contenu de la source."
   },
   {
     "id": "evidence_0013",
     "type": "reported_summary",
-    "text": "Soutien politique au volet souveraineté et réindustrialisation.",
-    "source_id": null,
-    "source_status": "to_qualify",
+    "text": "Résumé documenté : Roland Lescure intervient dans le cadrage national de la filière, sans prise de position locale précise documentée ici.",
+    "source_id": "source_0007",
+    "source_status": "qualified",
     "published_at": null,
-    "accessed_at": null
+    "accessed_at": "2026-11-05",
+    "source_location": "Texte ou extrait du document cité ; l'attribution au projet est limitée au contenu de la source."
   },
   {
     "id": "evidence_0014",
     "type": "reported_summary",
-    "text": "Facilitateur administratif des projets industriels d'envergure.",
-    "source_id": null,
-    "source_status": "to_qualify",
+    "text": "Résumé documenté : La DGE participe à la task force de l’État sur les data centers ; l’existence d’un contrat local Data4/DGE n’est pas documentée.",
+    "source_id": "source_0007",
+    "source_status": "qualified",
     "published_at": null,
-    "accessed_at": null
+    "accessed_at": "2026-11-05",
+    "source_location": "Texte ou extrait du document cité ; l'attribution au projet est limitée au contenu de la source."
   },
   {
     "id": "evidence_0015",
     "type": "reported_summary",
-    "text": "Promotion de l'attractivité des sites français (Choose France).",
-    "source_id": null,
-    "source_status": "to_qualify",
+    "text": "Résumé documenté : Business France fait partie de la task force nationale ; son rôle contractuel propre à Escaudain n’est pas prouvé.",
+    "source_id": "source_0007",
+    "source_status": "qualified",
     "published_at": null,
-    "accessed_at": null
+    "accessed_at": "2026-11-05",
+    "source_location": "Texte ou extrait du document cité ; l'attribution au projet est limitée au contenu de la source."
   },
   {
     "id": "evidence_0016",
     "type": "reported_summary",
-    "text": "Porteur de la vision d'aménagement industriel anticipé.",
-    "source_id": null,
-    "source_status": "to_qualify",
+    "text": "Résumé documenté : François Bayrou avait présenté des sites favorables aux data centers dans le cadre national, sans prise de position individuelle documentée sur Escaudain.",
+    "source_id": "source_0007",
+    "source_status": "qualified",
     "published_at": null,
-    "accessed_at": null
+    "accessed_at": "2026-11-05",
+    "source_location": "Texte ou extrait du document cité ; l'attribution au projet est limitée au contenu de la source."
   },
   {
     "id": "evidence_0017",
     "type": "reported_summary",
-    "text": "Partenaire éducatif potentiel pour le campus.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
+    "text": "Résumé documenté : L’université est mentionnée comme partenaire de formation envisagé par Bruno Saligot fin 2025 ; aucun établissement nommé ou convention signé.",
+    "source_id": "source_0003",
+    "source_status": "qualified",
+    "published_at": "2025-12-15",
+    "accessed_at": "2026-11-05",
+    "source_location": "Texte ou extrait du document cité ; l'attribution au projet est limitée au contenu de la source."
   },
   {
     "id": "evidence_0018",
     "type": "reported_summary",
-    "text": "Maillon de la chaîne de formation locale.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
+    "text": "Résumé documenté : Les lycées sont mentionnés comme partenaires de formation envisageables, sans convention spécifique signée.",
+    "source_id": "source_0003",
+    "source_status": "qualified",
+    "published_at": "2025-12-15",
+    "accessed_at": "2026-11-05",
+    "source_location": "Texte ou extrait du document cité ; l'attribution au projet est limitée au contenu de la source."
   },
   {
     "id": "evidence_0019",
     "type": "reported_summary",
-    "text": "Engagement attendu sur l'adaptation des cursus.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
+    "text": "Résumé documenté : L’Éducation nationale est citée comme interlocuteur potentiel pour adapter les formations, sans engagement juridique établi.",
+    "source_id": "source_0003",
+    "source_status": "qualified",
+    "published_at": "2025-12-15",
+    "accessed_at": "2026-11-05",
+    "source_location": "Texte ou extrait du document cité ; l'attribution au projet est limitée au contenu de la source."
   },
   {
     "id": "evidence_0020",
     "type": "reported_summary",
-    "text": "Chez Etix, pour un mégawatt déployé, nous employons entre 2 et 5 personnes, largement plus que pour un hyperscale",
-    "source_id": null,
-    "source_status": "to_qualify",
+    "text": "Résumé documenté : Louis Blanchot livre une analyse critique générale des ratios d’emplois des hyperscalers ; aucune opposition formelle au campus n’est prouvée.",
+    "source_id": "source_0024",
+    "source_status": "qualified",
     "published_at": null,
-    "accessed_at": null
+    "accessed_at": "2026-11-05",
+    "source_location": "Texte ou extrait du document cité ; l'attribution au projet est limitée au contenu de la source."
   },
   {
     "id": "evidence_0021",
     "type": "reported_summary",
-    "text": "l’opérateur cloud néerlandais Nebius injecterait plus de 8 milliards d’euros",
-    "source_id": null,
-    "source_status": "to_qualify",
+    "text": "Résumé documenté : Nebius est présent sur un autre projet régional à Béthune ; aucun rôle dans le campus Data4 d’Escaudain n’est établi.",
+    "source_id": "source_0029",
+    "source_status": "qualified",
     "published_at": null,
-    "accessed_at": null
+    "accessed_at": "2026-11-05",
+    "source_location": "Texte ou extrait du document cité ; l'attribution au projet est limitée au contenu de la source."
   },
   {
     "id": "evidence_0022",
     "type": "reported_summary",
-    "text": "Les Hauts-de-France sont devenus la vallée européenne de l'intelligence artificielle.",
-    "source_id": null,
-    "source_status": "to_qualify",
+    "text": "Résumé documenté : Xavier Bertrand valorise la dynamique IA des Hauts-de-France, sans qu’une position personnelle sur les modalités du campus soit démontrée.",
+    "source_id": "source_0015",
+    "source_status": "qualified",
     "published_at": null,
-    "accessed_at": null
+    "accessed_at": "2026-11-05",
+    "source_location": "Texte ou extrait du document cité ; l'attribution au projet est limitée au contenu de la source."
   },
   {
     "id": "evidence_0023",
     "type": "reported_summary",
-    "text": "Discours public assurant la crédibilité et la solidité du consortium.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
+    "text": "Résumé documenté : Olivier Micheli, PDG de Data4, soutient explicitement son campus d’Escaudain et ses perspectives économiques.",
+    "source_id": "source_0016",
+    "source_status": "qualified",
+    "published_at": "2026-06-12",
+    "accessed_at": "2026-11-05",
+    "source_location": "Texte ou extrait du document cité ; l'attribution au projet est limitée au contenu de la source."
   },
   {
     "id": "evidence_0024",
     "type": "reported_summary",
-    "text": "Validation par le sommet de l'État via le programme Choose France.",
-    "source_id": null,
-    "source_status": "to_qualify",
+    "text": "Résumé documenté : Emmanuel Macron promeut les grands projets français de data centers dans le cadre Choose France, sans position locale spécifique établie ici.",
+    "source_id": "source_0007",
+    "source_status": "qualified",
     "published_at": null,
-    "accessed_at": null
+    "accessed_at": "2026-11-05",
+    "source_location": "Texte ou extrait du document cité ; l'attribution au projet est limitée au contenu de la source."
   },
   {
     "id": "evidence_0025",
     "type": "reported_summary",
-    "text": "Accompagnement politique et événementiel officiel.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
+    "text": "Résumé documenté : La région Hauts-de-France accompagne le forum du 12 juin 2026 au cours duquel Data4 confirme le projet.",
+    "source_id": "source_0008",
+    "source_status": "qualified",
+    "published_at": "2026-06-19",
+    "accessed_at": "2026-11-05",
+    "source_location": "Texte ou extrait du document cité ; l'attribution au projet est limitée au contenu de la source."
   },
   {
     "id": "evidence_0026",
     "type": "reported_summary",
-    "text": "Simplification des normes via la procédure Fast Track.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0027",
-    "type": "reported_summary",
-    "text": "Approbation institutionnelle et soutien administratif local.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0028",
-    "type": "reported_summary",
-    "text": "Cité en tant que concurrent développant un projet parallèle dans la même région.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
+    "text": "Résumé documenté : Le dispositif national Fast Track associé à RTE a bénéficié au projet d’Escaudain, sans équivaloir à une autorisation de construction finale.",
+    "source_id": "source_0016",
+    "source_status": "qualified",
+    "published_at": "2026-06-12",
+    "accessed_at": "2026-11-05",
+    "source_location": "Texte ou extrait du document cité ; l'attribution au projet est limitée au contenu de la source."
   },
   {
     "id": "evidence_0029",
     "type": "reported_summary",
-    "text": "Figure industrielle d'un projet régional concurrent.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
+    "text": "Résumé documenté : Masayoshi Son est associé aux projets régionaux distincts de SoftBank ; aucun rôle au sein de Data4 Escaudain n’est attesté.",
+    "source_id": "source_0008",
+    "source_status": "qualified",
+    "published_at": "2026-06-19",
+    "accessed_at": "2026-11-05",
+    "source_location": "Texte ou extrait du document cité ; l'attribution au projet est limitée au contenu de la source."
   },
   {
     "id": "evidence_0030",
     "type": "reported_summary",
-    "text": "Exemple cité d'un abandon industriel récent.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
+    "text": "Résumé documenté : Fluidstack est mentionné pour un projet abandonné au Bosquel ; ce n’est pas une preuve d’intervention sur Escaudain.",
+    "source_id": "source_0008",
+    "source_status": "qualified",
+    "published_at": "2026-06-19",
+    "accessed_at": "2026-11-05",
+    "source_location": "Texte ou extrait du document cité ; l'attribution au projet est limitée au contenu de la source."
   },
   {
     "id": "evidence_0031",
     "type": "reported_summary",
-    "text": "Auteur de l'étude justifiant le narratif de souveraineté.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
+    "text": "Résumé documenté : Data4 cite une étude nationale de l’Institut Montaigne dans son discours de souveraineté ; l’Institut ne soutient pas spécifiquement Escaudain.",
+    "source_id": "source_0016",
+    "source_status": "qualified",
+    "published_at": "2026-06-12",
+    "accessed_at": "2026-11-05",
+    "source_location": "Texte ou extrait du document cité ; l'attribution au projet est limitée au contenu de la source."
   },
   {
-    "id": "evidence_0032",
+    "id": "evidence_0033",
     "type": "reported_summary",
-    "text": "pourrait à terme débloquer un total de 75 milliards d’euros",
-    "source_id": null,
-    "source_status": "to_qualify",
+    "text": "Résumé documenté : Catherine Mercier-Dhennain a remporté l’élection municipale de mars 2026 contre l’ancien maire Bruno Saligot.",
+    "source_id": "source_0022",
+    "source_status": "qualified",
+    "source_location": "Second tour du 22 mars",
+    "published_at": "2026-03-22",
+    "accessed_at": "2026-11-05"
+  },
+  {
+    "id": "evidence_0034",
+    "type": "reported_summary",
+    "text": "Résumé documenté : Le site communal présente Catherine Mercier comme maire et Bruno Saligot comme conseiller municipal.",
+    "source_id": "source_0023",
+    "source_status": "qualified",
+    "source_location": "Composition actuelle du conseil municipal",
     "published_at": null,
-    "accessed_at": null
+    "accessed_at": "2026-11-05"
+  },
+  {
+    "id": "evidence_0035",
+    "type": "reported_summary",
+    "text": "Résumé documenté : La zone AU2Ee fait l’objet d’une modification de PLUi concernant 36 ha, dont 33 ha détenus par l’intercommunalité ; concertation du 4 mai au 4 juin.",
+    "source_id": "source_0019",
+    "source_status": "qualified",
+    "source_location": "Dossier de concertation",
+    "published_at": "2026-05-04",
+    "accessed_at": "2026-11-05"
+  },
+  {
+    "id": "evidence_0036",
+    "type": "reported_summary",
+    "text": "Résumé documenté : Enquête publique programmée du 10 novembre au 10 décembre 2026, après arrêté A26754 du 12 octobre, avec approbation éventuelle ultérieure.",
+    "source_id": "source_0020",
+    "source_status": "qualified",
+    "source_location": "Calendrier de l’enquête et étapes suivantes",
+    "published_at": "2026-10-23",
+    "accessed_at": "2026-11-05"
+  },
+  {
+    "id": "evidence_0037",
+    "type": "reported_summary",
+    "text": "Résumé documenté : La collectivité indique que l’investissement prévu passe de 5 Md€ à 10 Md€ pour Brookfield et Data4 sur le territoire ; ventilation non précisée.",
+    "source_id": "source_0021",
+    "source_status": "qualified",
+    "source_location": "Consolidation du projet, paragraphe financement",
+    "published_at": null,
+    "accessed_at": "2026-11-05"
+  },
+  {
+    "id": "evidence_0038",
+    "type": "reported_summary",
+    "text": "Résumé documenté : Data4 annonce quatre data centers sur 33 ha, une puissance de 700 MW à terme et 5 Md€ de son investissement initial.",
+    "source_id": "source_0016",
+    "source_status": "qualified",
+    "source_location": "Communiqué, pages 1-2",
+    "published_at": "2026-06-12",
+    "accessed_at": "2026-11-05"
+  },
+  {
+    "id": "evidence_0039",
+    "type": "reported_summary",
+    "text": "Résumé documenté : Data4 annonce un pôle « Data4 Pour Tous » de formation, recherche et entrepreneuriat ; partenaires académiques précis non identifiés.",
+    "source_id": "source_0017",
+    "source_status": "qualified",
+    "source_location": "Présentation de l’écosystème",
+    "published_at": "2026-06-12",
+    "accessed_at": "2026-11-05"
+  },
+  {
+    "id": "evidence_0040",
+    "type": "reported_summary",
+    "text": "Résumé documenté : L’agglomération annonce un objectif de 2 000 m³/an d’eau, un PUE d’environ 1,2x, 6 ha de réserve naturelle et 2 500 arbres.",
+    "source_id": "source_0018",
+    "source_status": "qualified",
+    "source_location": "Campus Data Centers – engagements annoncés",
+    "published_at": "2025-12-09",
+    "accessed_at": "2026-11-05"
+  },
+  {
+    "id": "evidence_0041",
+    "type": "reported_summary",
+    "text": "Résumé documenté : Data4 envisage le béton bas carbone et la récupération de chaleur fatale des serveurs : équipements non encore évalués en exploitation.",
+    "source_id": "source_0016",
+    "source_status": "qualified",
+    "source_location": "Communiqué, page 2",
+    "published_at": "2026-06-12",
+    "accessed_at": "2026-11-05"
+  },
+  {
+    "id": "evidence_0042",
+    "type": "reported_summary",
+    "text": "Résumé documenté : Data4 annonce 2 400 emplois permanents dans la région à terme, sans preuve d’effectifs directs constatés en exploitation.",
+    "source_id": "source_0016",
+    "source_status": "qualified",
+    "source_location": "Communiqué, page 1",
+    "published_at": "2026-06-12",
+    "accessed_at": "2026-11-05"
+  },
+  {
+    "id": "evidence_0043",
+    "type": "reported_summary",
+    "text": "Résumé documenté : Première mise en service projetée à partir de 2030, non encore réalisée.",
+    "source_id": "source_0018",
+    "source_status": "qualified",
+    "source_location": "Page de projet et calendrier",
+    "published_at": "2025-12-09",
+    "accessed_at": "2026-11-05"
+  },
+  {
+    "id": "evidence_0044",
+    "type": "reported_summary",
+    "text": "Résumé documenté : Capacité brute visée de 700 MW à terme, à différencier de la puissance IT et du raccordement effectif.",
+    "source_id": "source_0018",
+    "source_status": "qualified",
+    "source_location": "Page de projet – caractéristiques",
+    "published_at": "2025-12-09",
+    "accessed_at": "2026-11-05"
+  },
+  {
+    "id": "evidence_0045",
+    "type": "reported_summary",
+    "text": "Résumé documenté : Mediacités examine la sélection du consortium et les promesses territoriales sans établir un collectif local d’opposants à Escaudain.",
+    "source_id": "source_0008",
+    "source_status": "qualified",
+    "source_location": "Enquête, introduction",
+    "published_at": "2026-06-19",
+    "accessed_at": "2026-11-05"
+  },
+  {
+    "id": "evidence_0046",
+    "type": "reported_summary",
+    "text": "Résumé documenté : Bruno Saligot soutient le projet en décembre 2025 en qualité de maire, avant son remplacement en mars 2026.",
+    "source_id": "source_0003",
+    "source_status": "qualified",
+    "source_location": "Article de décembre 2025",
+    "published_at": "2025-12-15",
+    "accessed_at": "2026-11-05"
+  },
+  {
+    "id": "evidence_0047",
+    "type": "reported_summary",
+    "text": "Résumé documenté : La Gazette documente la sélection de Data4 et les ambitions de recyclage de la friche.",
+    "source_id": "source_0014",
+    "source_status": "qualified",
+    "source_location": "Article du 22 décembre 2025",
+    "published_at": "2025-12-22",
+    "accessed_at": "2026-11-05"
   }
 ]

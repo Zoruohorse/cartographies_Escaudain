@@ -4,34 +4,34 @@
     "type": "project",
     "name": "Campus de data centers — Escaudain",
     "short_name": "Campus data centers Escaudain",
-    "description": "Projet de campus de data centers IA prévu à Escaudain sur l’ancienne friche Usinor, avec un investissement annoncé d’environ 5 milliards d’euros et une mise en service visée autour de 2030.",
+    "description": "Projet Data4 de quatre data centers sur les Soufflantes à Escaudain : 33 ha pour le campus, 700 MW bruts visés et première mise en service annoncée à partir de 2030. Data4 confirme 5 Md€ en juin 2026 ; la collectivité évoque 10 Md€ sur un périmètre à préciser.",
     "roles": [
       {
-        "label": "Projet central"
+        "label": "Projet central – en développement"
       }
     ],
     "categories": [
       "project"
     ],
     "display_in_cards": false,
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-05"
   },
   {
     "id": "actor_0002",
     "type": "project",
     "name": "Friche Usinor / zone des Soufflantes",
     "short_name": "Friche Usinor zone des Soufflantes",
-    "description": "Ancien site sidérurgique d’environ 38 hectares à Escaudain, support foncier du futur campus de data centers.",
+    "description": "Site Usinor/Soufflantes : ancienne friche de 38 ha selon La Porte du Hainaut, projet Data4 sur 33 ha et modification n°3 du PLUi portant sur 36 ha. Ces surfaces correspondent à des périmètres différents.",
     "roles": [
       {
-        "label": "Projet central"
+        "label": "Foncier / friche industrielle"
       }
     ],
     "categories": [
       "project"
     ],
     "display_in_cards": false,
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-05"
   },
   {
     "id": "actor_0003",
@@ -55,17 +55,17 @@
     "type": "project",
     "name": "Campus, pépinière et incubateur",
     "short_name": "Campus, pépinière & incubateur",
-    "description": "Écosystème complémentaire évoqué autour du data center : campus de formation, pépinière d’entreprises et incubateur pour accompagner la reconversion économique du territoire.",
+    "description": "Campus de formation, pépinière et incubateur envisagés autour de l’infrastructure, dont l’initiative « Data4 Pour Tous ». Pas de partenariat universitaire contractuel nominatif vérifié.",
     "roles": [
       {
-        "label": "Projet central"
+        "label": "Écosystème annoncé / formation"
       }
     ],
     "categories": [
       "project"
     ],
     "display_in_cards": false,
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-05"
   },
   {
     "id": "actor_0005",
@@ -89,17 +89,17 @@
     "type": "entity",
     "name": "Bruno Saligot",
     "short_name": "Bruno Saligot",
-    "description": "Maire d’Escaudain et vice-président de l’agglomération",
+    "description": "Ancien maire d’Escaudain jusqu’aux élections de mars 2026 ; conseiller municipal depuis. Soutien au projet exprimé fin 2025, lorsqu’il exerçait la fonction de maire.",
     "roles": [
       {
-        "label": "Maire d’Escaudain et vice-président de l’agglomération"
+        "label": "Ancien maire ; conseiller municipal"
       }
     ],
     "categories": [
       "elus-fav"
     ],
     "display_in_cards": true,
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-05"
   },
   {
     "id": "actor_0007",
@@ -157,51 +157,51 @@
     "type": "organization",
     "name": "Brookfield",
     "short_name": "Brookfield",
-    "description": "Fonds d’investissement canadien",
+    "description": "Investisseur canadien associé à BT Immo et Data4 dans le consortium sélectionné. La collectivité évoque 10 Md€ d’investissements territoriaux par Brookfield et Data4, sans détail définitif du phasage.",
     "roles": [
       {
-        "label": "Fonds d’investissement canadien"
+        "label": "Investisseur du consortium"
       }
     ],
     "categories": [
       "porteurs"
     ],
     "display_in_cards": true,
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-05"
   },
   {
     "id": "actor_0011",
     "type": "organization",
     "name": "BT Immo",
     "short_name": "BT Immo",
-    "description": "Acteur immobilier / constructeur",
+    "description": "Promoteur foncier cité aux côtés de Brookfield et Data4 dans le consortium choisi pour le site des Soufflantes.",
     "roles": [
       {
-        "label": "Acteur immobilier / constructeur"
+        "label": "Promoteur du consortium"
       }
     ],
     "categories": [
       "porteurs"
     ],
     "display_in_cards": true,
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-05"
   },
   {
     "id": "actor_0012",
     "type": "organization",
     "name": "Data4",
     "short_name": "Data4",
-    "description": "Opérateur de data centers",
+    "description": "Opérateur Data4 retenu pour quatre data centers à Escaudain (33 ha ; 700 MW bruts visés). Investissement de 5 Md€ annoncé le 12 juin 2026 ; autre estimation de 10 Md€ évoquée par la collectivité.",
     "roles": [
       {
-        "label": "Opérateur de data centers"
+        "label": "Porteur technique et opérationnel"
       }
     ],
     "categories": [
       "porteurs"
     ],
     "display_in_cards": true,
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-05"
   },
   {
     "id": "actor_0013",
@@ -242,10 +242,10 @@
     "type": "organization",
     "name": "RTE",
     "short_name": "RTE",
-    "description": "Gestionnaire du réseau de transport d’électricité",
+    "description": "RTE intervient sur le cadre Fast Track et le projet de raccordement en puissance ; aucune mise à disposition effective des 700 MW n’est attestée.",
     "roles": [
       {
-        "label": "Gestionnaire du réseau de transport d’électricité"
+        "label": "Gestionnaire réseau – raccordement projeté"
       }
     ],
     "categories": [
@@ -253,7 +253,7 @@
       "orgs"
     ],
     "display_in_cards": true,
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-05"
   },
   {
     "id": "actor_0016",
@@ -313,17 +313,17 @@
     "type": "organization",
     "name": "700 MW",
     "short_name": "700 MW",
-    "description": "Capacité de raccordement mise en avant comme objectif à terme pour le site d’Escaudain.",
+    "description": "700 MW bruts visés à terme pour le campus, à distinguer de la puissance informatique utile, de la capacité demandée et de la puissance réellement raccordée.",
     "roles": [
       {
-        "label": "Énergie / raccordement"
+        "label": "Puissance brute projetée"
       }
     ],
     "categories": [
       "energie"
     ],
     "display_in_cards": false,
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-05"
   },
   {
     "id": "actor_0020",
@@ -420,17 +420,17 @@
     "type": "organization",
     "name": "2 400 emplois à terme",
     "short_name": "2 400 emplois à terme",
-    "description": "Promesse centrale du projet, mise en avant par les élus locaux, avec environ 600 emplois dans une première phase.",
+    "description": "2 400 emplois permanents annoncés dans la région à terme par les porteurs. Prévision non réalisée, distincte du nombre d’emplois directs en exploitation.",
     "roles": [
       {
-        "label": "Formation / emploi"
+        "label": "Emplois annoncés – prévision"
       }
     ],
     "categories": [
       "formation"
     ],
     "display_in_cards": false,
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-05"
   },
   {
     "id": "actor_0026",
@@ -576,17 +576,17 @@
     "type": "entity",
     "name": "Pas d’opposition locale structurée identifiée",
     "short_name": "Pas d’opposition locale structurée identifiée",
-    "description": "Dans le corpus étudié, aucun collectif local d’opposition ou opposant local nommément cité n’apparaît clairement à ce stade pour Escaudain.",
+    "description": "Aucun collectif d’opposition spécifiquement identifié contre le projet d’Escaudain dans le corpus examiné au 05/11/2026. Ce constat ne démontre pas l’absence d’objections futures.",
     "roles": [
       {
-        "label": "Points de vigilance / griefs"
+        "label": "Constat limité aux sources"
       }
     ],
     "categories": [
       "vigilance"
     ],
     "display_in_cards": false,
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-05"
   },
   {
     "id": "actor_0035",
@@ -730,34 +730,34 @@
     "type": "organization",
     "name": "Nebius",
     "short_name": "Nebius",
-    "description": "Opérateur cloud",
+    "description": "Nebius est présent dans le contexte régional avec un projet distinct à Béthune ; aucun partenariat ou opposition à Escaudain n’est établi.",
     "roles": [
       {
-        "label": "Opérateur cloud"
+        "label": "Projet distinct"
       }
     ],
     "categories": [
       "porteurs"
     ],
     "display_in_cards": true,
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-05"
   },
   {
     "id": "actor_0044",
     "type": "organization",
     "name": "SoftBank",
     "short_name": "SoftBank",
-    "description": "Conglomérat annonçant jusqu'à 75 milliards d'euros d'investissements dans les Hauts-de-France.",
+    "description": "SoftBank porte des annonces de data centers dans les Hauts-de-France, mais pas le campus Data4 d’Escaudain. Les variantes de nom en double ont été supprimées du référentiel.",
     "roles": [
       {
-        "label": "Porteurs industriels / économiques"
+        "label": "Contexte régional distinct"
       }
     ],
     "categories": [
       "porteurs"
     ],
     "display_in_cards": false,
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-05"
   },
   {
     "id": "actor_0045",
@@ -849,34 +849,17 @@
     "type": "entity",
     "name": "Préfet du Nord",
     "short_name": "Préfet du Nord",
-    "description": "Représentant de l'État en région",
+    "description": "Fonction de préfet du Nord ; aucune prise de position propre à Escaudain suffisamment qualifiée dans le corpus consulté.",
     "roles": [
       {
-        "label": "Représentant de l'État en région"
+        "label": "Position sur Escaudain à qualifier"
       }
     ],
     "categories": [
       "elus-fav"
     ],
     "display_in_cards": true,
-    "updated_at": "2026-10-09"
-  },
-  {
-    "id": "actor_0051",
-    "type": "organization",
-    "name": "Softbank",
-    "short_name": "Softbank",
-    "description": "Fonds d'investissement japonais",
-    "roles": [
-      {
-        "label": "Fonds d'investissement japonais"
-      }
-    ],
-    "categories": [
-      "porteurs"
-    ],
-    "display_in_cards": true,
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-05"
   },
   {
     "id": "actor_0052",
@@ -917,33 +900,101 @@
     "type": "organization",
     "name": "Institut Montaigne",
     "short_name": "Institut Montaigne",
-    "description": "Think tank économique",
+    "description": "L’Institut Montaigne est cité dans le communiqué Data4 pour une étude nationale sur l’hébergement des données ; aucune position spécifique sur Escaudain n’est documentée.",
     "roles": [
       {
-        "label": "Think tank économique"
+        "label": "Étude nationale citée"
       }
     ],
     "categories": [
       "orgs"
     ],
     "display_in_cards": true,
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-05"
   },
   {
-    "id": "actor_0055",
-    "type": "organization",
-    "name": "SoftBank (Masayoshi Son)",
-    "short_name": "SoftBank (Masayoshi Son)",
-    "description": "Conglomérat japonais",
+    "id": "actor_0056",
+    "type": "person",
+    "name": "Catherine Mercier",
+    "short_name": "Catherine Mercier",
+    "description": "Maire d’Escaudain depuis mars 2026. Position sur le data center non établie dans les sources consultées.",
     "roles": [
       {
-        "label": "Conglomérat japonais"
+        "label": "Maire d’Escaudain depuis mars 2026. Position sur le data center non établie dans les sources"
       }
     ],
     "categories": [
-      "porteurs"
+      "elus-neutres"
     ],
     "display_in_cards": true,
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-05"
+  },
+  {
+    "id": "actor_0057",
+    "type": "procedure",
+    "name": "Modification n°3 du PLUi – Soufflantes",
+    "short_name": "Modification n°3 du PLUi – Soufflantes",
+    "description": "Procédure sur la zone AU2Ee, 36 ha ; concertation organisée du 4 mai au 4 juin 2026.",
+    "roles": [
+      {
+        "label": "Procédure sur la zone AU2Ee, 36 ha ; concertation organisée du 4 mai au 4 juin 2026."
+      }
+    ],
+    "categories": [
+      "project"
+    ],
+    "display_in_cards": false,
+    "updated_at": "2026-11-05"
+  },
+  {
+    "id": "actor_0058",
+    "type": "procedure",
+    "name": "Enquête publique PLUi – novembre-décembre 2026",
+    "short_name": "Enquête publique PLUi – novembre-décembre 2026",
+    "description": "Enquête publique prévue du 10 novembre au 10 décembre 2026, conformément à l’arrêté du 12 octobre 2026.",
+    "roles": [
+      {
+        "label": "Enquête publique prévue du 10 novembre au 10 décembre 2026, conformément à l’arrêté du 12 oc"
+      }
+    ],
+    "categories": [
+      "project"
+    ],
+    "display_in_cards": false,
+    "updated_at": "2026-11-05"
+  },
+  {
+    "id": "actor_0059",
+    "type": "initiative",
+    "name": "Data4 Pour Tous",
+    "short_name": "Data4 Pour Tous",
+    "description": "Programme de formation, recherche et entrepreneuriat annoncé dans le projet Data4 ; partenaires nommés non établis.",
+    "roles": [
+      {
+        "label": "Programme de formation, recherche et entrepreneuriat annoncé dans le projet Data4 ; partenai"
+      }
+    ],
+    "categories": [
+      "formation"
+    ],
+    "display_in_cards": false,
+    "updated_at": "2026-11-05"
+  },
+  {
+    "id": "actor_0060",
+    "type": "media",
+    "name": "Mediacités",
+    "short_name": "Mediacités",
+    "description": "Média ayant publié une enquête sur la sélection du consortium Data4 et les 700 MW à Escaudain.",
+    "roles": [
+      {
+        "label": "Média ayant publié une enquête sur la sélection du consortium Data4 et les 700 MW à Escaudai"
+      }
+    ],
+    "categories": [
+      "medias"
+    ],
+    "display_in_cards": false,
+    "updated_at": "2026-11-05"
   }
 ]
