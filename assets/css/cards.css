@@ -12,3 +12,17 @@
 .griefCard h2,.listCard h2{font-size:1.15rem;margin:0 0 12px}
 .griefCard p{margin:0}.listCard{margin-bottom:20px}.listCard li{margin-bottom:12px}
 @media(max-width:700px){.griefGrid{grid-template-columns:1fr}.tabs{gap:6px}.tab{flex:1 1 100%;text-align:left}}
+
+/* Escaudain : synthèse sourcée et chronologie. */
+.synth-ref{margin-top:13px;font-size:.82rem;line-height:1.6;color:#475569}
+.synth-ref a,.synth-proof a{color:#2563eb;text-decoration:underline;text-underline-offset:2px}
+.synth-qualification{margin-top:12px!important;color:#475569;font-size:.88rem;line-height:1.45}
+.synth-proofs{margin-top:14px;padding:10px 12px;border:1px solid #cbd5e1;border-radius:10px}
+.synth-proofs summary{cursor:pointer;font-weight:700;color:#334155;font-size:.86rem}
+.synth-proof{padding:10px 0;border-top:1px solid #e2e8f0;font-size:.85rem;color:#475569}
+.synth-proof:first-of-type{margin-top:8px}
+.chrono-header{margin-bottom:22px}.chrono-header h2{font-size:1.5rem;margin:0 0 6px}.chrono-header p{color:#64748b;margin:0}
+.chrono-card{overflow-wrap:anywhere}.chrono-future{border-style:dashed}
+.chrono-date{display:block;color:#1d4ed8;font-weight:800;font-size:.84rem;margin-bottom:9px}
+#tab-timeline .listCard{margin-top:22px}#tab-timeline #factGrid .griefCard{min-height:0}
+#tab-evolution .summary-wrap{max-width:1600px}
