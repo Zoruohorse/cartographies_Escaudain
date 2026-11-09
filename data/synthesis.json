@@ -1,32 +1,100 @@
 {
   "griefs": [
     {
-      "title": "⚡ Capacité électrique",
-      "text": "Le campus vise 700 MW bruts à terme selon les annonces. Le calendrier réel de raccordement et la puissance IT ne sont pas établis par cette seule annonce."
+      "id": "grief_escaudain_001",
+      "title": "⚡ Puissance et raccordement",
+      "text": "Le projet vise 700 MW bruts à terme, distincts de la puissance IT ou d’un raccordement déjà réalisé ; le Fast Track ne garantit pas un calendrier de mise en service.",
+      "qualification": "Enjeu de planification décrit par le porteur et l'agglomération ; aucune opposition nominative locale avérée.",
+      "evidence_ids": [
+        "evidence_0009",
+        "evidence_0044",
+        "evidence_0038"
+      ],
+      "documented_local_opposition": false
     },
     {
+      "id": "grief_escaudain_002",
       "title": "💧 Eau et refroidissement",
-      "text": "L’agglomération annonce 2 000 m³ d’eau/an, mais ce chiffre est une estimation de projet et non une performance constatée."
+      "text": "La collectivité annonce 2 000 m³ d’eau/an et un PUE d'environ 1,2 ; il s'agit d'objectifs de conception et non de performances observées sur une installation en service.",
+      "qualification": "Engagements du porteur à vérifier dans les dossiers environnementaux.",
+      "evidence_ids": [
+        "evidence_0040",
+        "evidence_0041"
+      ],
+      "documented_local_opposition": false
     },
     {
-      "title": "💼 Emplois : promesse et réalisation",
-      "text": "Data4 et les élus prévoient 2 400 emplois permanents dans la région à terme. Aucun décompte d’emplois directs déjà réalisés ne justifie ce volume."
+      "id": "grief_escaudain_003",
+      "title": "🌿 Foncier et biodiversité",
+      "text": "Les 33 ha du campus, les 36 ha du PLUi et les 38 ha de la friche relèvent de périmètres différents. Les six hectares de réserve naturelle et les 2 500 arbres sont des engagements annoncés.",
+      "qualification": "Distinction documentaire des périmètres et des objectifs, non recours local identifié.",
+      "evidence_ids": [
+        "evidence_0035",
+        "evidence_0038",
+        "evidence_0040"
+      ],
+      "documented_local_opposition": false
     },
     {
-      "title": "🌱 Foncier et biodiversité",
-      "text": "Les superficies mentionnées correspondent à plusieurs périmètres : 33 ha Data4, 36 ha PLUi et 38 ha de friche. Les 6 ha de réserve naturelle et 2 500 arbres sont annoncés."
+      "id": "grief_escaudain_004",
+      "title": "💼 Emplois et formations",
+      "text": "Les 2 400 emplois permanents sont des prévisions régionales à terme. Les universités, lycées et l’Éducation nationale ne disposent pas de conventions établies dans le corpus.",
+      "qualification": "Annonce économique à distinguer des emplois directs constatés et des engagements signés.",
+      "evidence_ids": [
+        "evidence_0042",
+        "evidence_0017",
+        "evidence_0018",
+        "evidence_0019",
+        "evidence_0045"
+      ],
+      "documented_local_opposition": false
     },
     {
-      "title": "👥 Concertation et enquête publique",
-      "text": "La concertation PLUi a été organisée du 4 mai au 4 juin ; une enquête publique est programmée du 10 novembre au 10 décembre 2026. Son résultat est encore inconnu."
+      "id": "grief_escaudain_005",
+      "title": "🔎 Sélection du consortium",
+      "text": "Mediacités interroge la sélection de Brookfield, BT Immo et Data4 et les conditions d'accès aux 700 MW. Cette enquête n'établit pas à elle seule une opposition militante ou un manquement avéré.",
+      "qualification": "Interrogations attribuées au média, et non aux riverains.",
+      "evidence_ids": [
+        "evidence_0045",
+        "evidence_0005",
+        "evidence_0006"
+      ],
+      "documented_local_opposition": false
     },
     {
-      "title": "📉 Analyse critique des promesses",
-      "text": "Mediacités examine les conditions de sélection et les promesses économiques. Ces interrogations ne sont pas automatiquement une opposition de riverains au campus."
+      "id": "grief_escaudain_006",
+      "title": "📋 Concertation et enquête publique PLUi",
+      "text": "La concertation a eu lieu du 4 mai au 4 juin 2026. L’enquête sur l'ouverture à l'urbanisation des Soufflantes est programmée du 10 novembre au 10 décembre 2026 ; aucune issue n'est encore connue.",
+      "qualification": "Procédure officielle, sans anticiper ni le contenu des observations ni leur appréciation.",
+      "evidence_ids": [
+        "evidence_0035",
+        "evidence_0036"
+      ],
+      "documented_local_opposition": false
     },
     {
-      "title": "🧭 Projets voisins distincts",
-      "text": "Les projets de SoftBank, Nebius et e-Valley sont distincts de Data4 Escaudain. Ils peuvent éclairer la pression régionale sans prouver de relation contractuelle entre eux."
+      "id": "grief_escaudain_007",
+      "title": "💶 Montants et périmètres d’investissement",
+      "text": "Data4 annonce 5 Md€ pour son campus, tandis que la collectivité évoque 10 Md€ pour Brookfield et Data4, sans périmètre d'investissement strictement comparable ; le montant annoncé n'est pas une dépense déjà réalisée.",
+      "qualification": "Divergence des annonces à expliquer, pas preuve d'irrégularité.",
+      "evidence_ids": [
+        "evidence_0037",
+        "evidence_0038",
+        "evidence_0007"
+      ],
+      "documented_local_opposition": false
+    },
+    {
+      "id": "grief_escaudain_008",
+      "title": "🧭 Acceptabilité et projets distincts",
+      "text": "Aucun collectif d'opposition local spécifique n'est documenté dans le corpus. La mobilisation dans le Douaisis et les projets SoftBank, Nebius ou e-Valley sont distincts : ils ne démontrent pas une opposition à Escaudain.",
+      "qualification": "Absence de preuve d’opposition locale ≠ consensus territorial.",
+      "evidence_ids": [
+        "evidence_0045",
+        "evidence_0021",
+        "evidence_0036"
+      ],
+      "documented_local_opposition": false
     }
   ],
   "vigilance": [
@@ -71,5 +139,17 @@
     "DCmag — Consortium Brookfield, BT Immo et Data4 retenu à Escaudain",
     "La Gazette France — Escaudain : Data4 investit cinq milliards d’euros",
     "La Gazette France — Un data center dernière génération aux Soufflantes"
-  ]
+  ],
+  "grievances_method": "Thèmes de vigilance et d'interrogation, non imputations d'opposition : preuves et URL issues de la base Escaudain. Les promesses du porteur sont attribuées et ne sont pas traitées comme performances constatées.",
+  "opposition_status": {
+    "documented_opponent_count": 0,
+    "as_of": "2026-11-09",
+    "description": "Aucun opposant local nominatif ou collectif formellement opposé au campus Data4 n'est établi dans ce corpus. L'enquête publique débute le 10 novembre 2026. Ne pas déduire un consensus.",
+    "evidence_ids": [
+      "evidence_0045",
+      "evidence_0035",
+      "evidence_0036"
+    ]
+  },
+  "updated_at": "2026-11-09"
 }

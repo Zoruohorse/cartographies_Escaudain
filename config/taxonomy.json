@@ -163,5 +163,56 @@
       "label": "Mention de contexte (pas de partenariat établi)",
       "directed": false
     }
+  },
+  "timeline": {
+    "event_type": "first_documented_appearance",
+    "grouping": "month",
+    "default_mode": "cumulative",
+    "default_scope": "direct",
+    "categories": [
+      {
+        "id": "elus",
+        "label": "Élus et collectivités",
+        "color": "#7277c7"
+      },
+      {
+        "id": "entreprises",
+        "label": "Entreprises et porteurs",
+        "color": "#12978e"
+      },
+      {
+        "id": "institutions",
+        "label": "Institutions, énergie et formation",
+        "color": "#4e83be"
+      },
+      {
+        "id": "other",
+        "label": "Autres acteurs",
+        "color": "#c88957"
+      }
+    ],
+    "stances": [
+      {
+        "id": "favorable",
+        "label": "Favorables ou porteurs",
+        "color": "#16a34a"
+      },
+      {
+        "id": "opposed",
+        "label": "Opposants documentés",
+        "color": "#dc2626"
+      },
+      {
+        "id": "neutral",
+        "label": "Prudents, institutionnels ou contextuels",
+        "color": "#f59e0b"
+      },
+      {
+        "id": "unknown",
+        "label": "Position non établie",
+        "color": "#94a3b8"
+      }
+    ],
+    "methodology": "Une entrée par acteur et par première apparition documentaire datable. Les positions enregistrées dans les fiches sont affichées par classification, pas comme une histoire des changements d'opinion. Aucun opposant local établi dans le corpus."
   }
 }

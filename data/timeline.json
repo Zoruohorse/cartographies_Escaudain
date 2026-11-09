@@ -1,0 +1,569 @@
+[
+  {
+    "id": "timeline_escaudain_0008",
+    "actor_id": "actor_0008",
+    "event_type": "first_documented_appearance",
+    "date": "2025-12-09",
+    "date_precision": "day",
+    "category": "elus",
+    "scope": "direct",
+    "stance": "favorable",
+    "source_ids": [
+      "source_0018"
+    ],
+    "evidence_ids": [
+      "evidence_escaudain_evolution_0008"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_basis": "Annonce institutionnelle de l’agglomération en décembre 2025 : la collectivité porte le projet des Soufflantes.",
+    "summary": "La Porte du Hainaut a choisi Data4 comme partenaire exclusif et soutient la reconversion numérique du site.",
+    "stance_basis": "Catégorie de position issue de la fiche actuelle, non datation du début de l'opinion."
+  },
+  {
+    "id": "timeline_escaudain_0006",
+    "actor_id": "actor_0006",
+    "event_type": "first_documented_appearance",
+    "date": "2025-12-15",
+    "date_precision": "day",
+    "category": "elus",
+    "scope": "direct",
+    "stance": "favorable",
+    "source_ids": [
+      "source_0003"
+    ],
+    "evidence_ids": [
+      "evidence_0002"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_basis": "Date de la source documentaire du 2025-12-15 : cette date ne prouve pas la première prise de position publique de l'acteur.",
+    "summary": "Bruno Saligot soutenait le campus en décembre 2025 en qualité de maire ; il a perdu ce mandat en mars 2026.",
+    "stance_basis": "Catégorie de position issue de la fiche actuelle, non datation du début de l'opinion."
+  },
+  {
+    "id": "timeline_escaudain_0007",
+    "actor_id": "actor_0007",
+    "event_type": "first_documented_appearance",
+    "date": "2025-12-15",
+    "date_precision": "day",
+    "category": "elus",
+    "scope": "direct",
+    "stance": "favorable",
+    "source_ids": [
+      "source_0003"
+    ],
+    "evidence_ids": [
+      "evidence_0003"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_basis": "Date de la source documentaire du 2025-12-15 : cette date ne prouve pas la première prise de position publique de l'acteur.",
+    "summary": "Émilie Gérard met en avant la proximité du poste de Mastaing et l’objectif de 700 MW à terme ; ne confirme aucun raccordement déjà opérationnel.",
+    "stance_basis": "Catégorie de position issue de la fiche actuelle, non datation du début de l'opinion."
+  },
+  {
+    "id": "timeline_escaudain_0010",
+    "actor_id": "actor_0010",
+    "event_type": "first_documented_appearance",
+    "date": "2025-12-15",
+    "date_precision": "day",
+    "category": "entreprises",
+    "scope": "direct",
+    "stance": "favorable",
+    "source_ids": [
+      "source_0002"
+    ],
+    "evidence_ids": [
+      "evidence_escaudain_evolution_0010"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_basis": "Le consortium Brookfield–BT Immo–Data4 est mentionné comme retenu dans la presse du 15 décembre 2025.",
+    "summary": "Brookfield est membre du consortium sélectionné avec BT Immo et Data4.",
+    "stance_basis": "Catégorie de position issue de la fiche actuelle, non datation du début de l'opinion."
+  },
+  {
+    "id": "timeline_escaudain_0011",
+    "actor_id": "actor_0011",
+    "event_type": "first_documented_appearance",
+    "date": "2025-12-15",
+    "date_precision": "day",
+    "category": "entreprises",
+    "scope": "direct",
+    "stance": "favorable",
+    "source_ids": [
+      "source_0002"
+    ],
+    "evidence_ids": [
+      "evidence_escaudain_evolution_0011"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_basis": "BT Immo figure dans l'annonce de sélection du consortium du 15 décembre 2025.",
+    "summary": "BT Immo est mentionné comme promoteur associé au consortium sélectionné.",
+    "stance_basis": "Catégorie de position issue de la fiche actuelle, non datation du début de l'opinion."
+  },
+  {
+    "id": "timeline_escaudain_0012",
+    "actor_id": "actor_0012",
+    "event_type": "first_documented_appearance",
+    "date": "2025-12-15",
+    "date_precision": "day",
+    "category": "entreprises",
+    "scope": "direct",
+    "stance": "favorable",
+    "source_ids": [
+      "source_0002"
+    ],
+    "evidence_ids": [
+      "evidence_escaudain_evolution_0012"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_basis": "Data4 est déjà nommé comme lauréat du consortium le 15 décembre 2025 ; sa confirmation officielle date du 12 juin suivant.",
+    "summary": "Data4 confirme le projet d’Escaudain le 12 juin 2026 : quatre bâtiments, 33 ha, 700 MW bruts visés et 5 Md€ annoncés.",
+    "stance_basis": "Catégorie de position issue de la fiche actuelle, non datation du début de l'opinion."
+  },
+  {
+    "id": "timeline_escaudain_0013",
+    "actor_id": "actor_0013",
+    "event_type": "first_documented_appearance",
+    "date": "2025-12-15",
+    "date_precision": "day",
+    "category": "entreprises",
+    "scope": "direct",
+    "stance": "neutral",
+    "source_ids": [
+      "source_0002"
+    ],
+    "evidence_ids": [
+      "evidence_0008"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_basis": "Date de la source documentaire du 2025-12-15 : cette date ne prouve pas la première prise de position publique de l'acteur.",
+    "summary": "AWS est cité parmi les candidats à l’appel à manifestation d’intérêt de 2025, mais n’est pas le lauréat.",
+    "stance_basis": "Catégorie de position issue de la fiche actuelle, non datation du début de l'opinion."
+  },
+  {
+    "id": "timeline_escaudain_0018",
+    "actor_id": "actor_0018",
+    "event_type": "first_documented_appearance",
+    "date": "2025-12-15",
+    "date_precision": "day",
+    "category": "institutions",
+    "scope": "context",
+    "stance": "neutral",
+    "source_ids": [
+      "source_0002"
+    ],
+    "evidence_ids": [
+      "evidence_0011"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_basis": "Date de la source documentaire du 2025-12-15 : cette date ne prouve pas la première prise de position publique de l'acteur.",
+    "summary": "Enedis est cité dans des réunions pour le projet e-Valley près de Cambrai : pas de participation opérationnelle démontrée à Escaudain.",
+    "stance_basis": "Catégorie de position issue de la fiche actuelle, non datation du début de l'opinion."
+  },
+  {
+    "id": "timeline_escaudain_0056",
+    "actor_id": "actor_0056",
+    "event_type": "first_documented_appearance",
+    "date": "2026-03-22",
+    "date_precision": "day",
+    "category": "elus",
+    "scope": "direct",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0022"
+    ],
+    "evidence_ids": [
+      "evidence_escaudain_evolution_0056"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_basis": "Élection municipale du 22 mars 2026 : Catherine Mercier-Dhennain devient maire ; aucune prise de position sur le campus n’est inférée.",
+    "summary": "Maire d’Escaudain depuis mars 2026. Position sur le data center non établie dans les sources consultées.",
+    "stance_basis": "Catégorie de position issue de la fiche actuelle, non datation du début de l'opinion."
+  },
+  {
+    "id": "timeline_escaudain_0005",
+    "actor_id": "actor_0005",
+    "event_type": "first_documented_appearance",
+    "date": "2026-06-12",
+    "date_precision": "day",
+    "category": "elus",
+    "scope": "direct",
+    "stance": "favorable",
+    "source_ids": [
+      "source_0016"
+    ],
+    "evidence_ids": [
+      "evidence_0001"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_basis": "Date de la source documentaire du 2026-06-12 : cette date ne prouve pas la première prise de position publique de l'acteur.",
+    "summary": "Aymeric Robin porte publiquement le projet comme reconversion industrielle des Soufflantes et projet de formation.",
+    "stance_basis": "Catégorie de position issue de la fiche actuelle, non datation du début de l'opinion."
+  },
+  {
+    "id": "timeline_escaudain_0015",
+    "actor_id": "actor_0015",
+    "event_type": "first_documented_appearance",
+    "date": "2026-06-12",
+    "date_precision": "day",
+    "category": "institutions",
+    "scope": "direct",
+    "stance": "neutral",
+    "source_ids": [
+      "source_0016"
+    ],
+    "evidence_ids": [
+      "evidence_0009"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_basis": "Date de la source documentaire du 2026-06-12 : cette date ne prouve pas la première prise de position publique de l'acteur.",
+    "summary": "RTE est associé au dispositif Fast Track du site ; l’annonce de 700 MW ne prouve pas l’achèvement du raccordement.",
+    "stance_basis": "Catégorie de position issue de la fiche actuelle, non datation du début de l'opinion."
+  },
+  {
+    "id": "timeline_escaudain_0046",
+    "actor_id": "actor_0046",
+    "event_type": "first_documented_appearance",
+    "date": "2026-06-12",
+    "date_precision": "day",
+    "category": "entreprises",
+    "scope": "direct",
+    "stance": "favorable",
+    "source_ids": [
+      "source_0016"
+    ],
+    "evidence_ids": [
+      "evidence_0023"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_basis": "Date de la source documentaire du 2026-06-12 : cette date ne prouve pas la première prise de position publique de l'acteur.",
+    "summary": "Olivier Micheli, PDG de Data4, soutient explicitement son campus d’Escaudain et ses perspectives économiques.",
+    "stance_basis": "Catégorie de position issue de la fiche actuelle, non datation du début de l'opinion."
+  },
+  {
+    "id": "timeline_escaudain_0049",
+    "actor_id": "actor_0049",
+    "event_type": "first_documented_appearance",
+    "date": "2026-06-12",
+    "date_precision": "day",
+    "category": "elus",
+    "scope": "direct",
+    "stance": "favorable",
+    "source_ids": [
+      "source_0016"
+    ],
+    "evidence_ids": [
+      "evidence_0026"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_basis": "Date de la source documentaire du 2026-06-12 : cette date ne prouve pas la première prise de position publique de l'acteur.",
+    "summary": "Le dispositif national Fast Track associé à RTE a bénéficié au projet d’Escaudain, sans équivaloir à une autorisation de construction finale.",
+    "stance_basis": "Catégorie de position issue de la fiche actuelle, non datation du début de l'opinion."
+  },
+  {
+    "id": "timeline_escaudain_0054",
+    "actor_id": "actor_0054",
+    "event_type": "first_documented_appearance",
+    "date": "2026-06-12",
+    "date_precision": "day",
+    "category": "institutions",
+    "scope": "context",
+    "stance": "neutral",
+    "source_ids": [
+      "source_0016"
+    ],
+    "evidence_ids": [
+      "evidence_0031"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_basis": "Date de la source documentaire du 2026-06-12 : cette date ne prouve pas la première prise de position publique de l'acteur.",
+    "summary": "Data4 cite une étude nationale de l’Institut Montaigne dans son discours de souveraineté ; l’Institut ne soutient pas spécifiquement Escaudain.",
+    "stance_basis": "Catégorie de position issue de la fiche actuelle, non datation du début de l'opinion."
+  },
+  {
+    "id": "timeline_escaudain_0048",
+    "actor_id": "actor_0048",
+    "event_type": "first_documented_appearance",
+    "date": "2026-06-19",
+    "date_precision": "day",
+    "category": "elus",
+    "scope": "direct",
+    "stance": "favorable",
+    "source_ids": [
+      "source_0008"
+    ],
+    "evidence_ids": [
+      "evidence_0025"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_basis": "Date de la source documentaire du 2026-06-19 : cette date ne prouve pas la première prise de position publique de l'acteur.",
+    "summary": "La région Hauts-de-France accompagne le forum du 12 juin 2026 au cours duquel Data4 confirme le projet.",
+    "stance_basis": "Catégorie de position issue de la fiche actuelle, non datation du début de l'opinion."
+  },
+  {
+    "id": "timeline_escaudain_0052",
+    "actor_id": "actor_0052",
+    "event_type": "first_documented_appearance",
+    "date": "2026-06-19",
+    "date_precision": "day",
+    "category": "entreprises",
+    "scope": "context",
+    "stance": "neutral",
+    "source_ids": [
+      "source_0008"
+    ],
+    "evidence_ids": [
+      "evidence_0029"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_basis": "Date de la source documentaire du 2026-06-19 : cette date ne prouve pas la première prise de position publique de l'acteur.",
+    "summary": "Masayoshi Son est associé aux projets régionaux distincts de SoftBank ; aucun rôle au sein de Data4 Escaudain n’est attesté.",
+    "stance_basis": "Catégorie de position issue de la fiche actuelle, non datation du début de l'opinion."
+  },
+  {
+    "id": "timeline_escaudain_0053",
+    "actor_id": "actor_0053",
+    "event_type": "first_documented_appearance",
+    "date": "2026-06-19",
+    "date_precision": "day",
+    "category": "entreprises",
+    "scope": "context",
+    "stance": "neutral",
+    "source_ids": [
+      "source_0008"
+    ],
+    "evidence_ids": [
+      "evidence_0030"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_basis": "Date de la source documentaire du 2026-06-19 : cette date ne prouve pas la première prise de position publique de l'acteur.",
+    "summary": "Fluidstack est mentionné pour un projet abandonné au Bosquel ; ce n’est pas une preuve d’intervention sur Escaudain.",
+    "stance_basis": "Catégorie de position issue de la fiche actuelle, non datation du début de l'opinion."
+  },
+  {
+    "id": "timeline_escaudain_0016",
+    "actor_id": "actor_0016",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "category": "institutions",
+    "scope": "context",
+    "stance": "neutral",
+    "source_ids": [
+      "source_0025"
+    ],
+    "evidence_ids": [
+      "evidence_0010"
+    ],
+    "status": "undated",
+    "confidence": "low",
+    "date_basis": "Date exploitable non établie pour la source de la fiche ; acteur conservé hors des séries graphiques.",
+    "summary": "Nathalie Lemaître intervient sur la politique générale de raccordement RTE, sans implication personnelle précise démontrée à Escaudain.",
+    "stance_basis": "Catégorie de position issue de la fiche actuelle, non datation du début de l'opinion."
+  },
+  {
+    "id": "timeline_escaudain_0020",
+    "actor_id": "actor_0020",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "category": "elus",
+    "scope": "context",
+    "stance": "neutral",
+    "source_ids": [
+      "source_0007"
+    ],
+    "evidence_ids": [
+      "evidence_0012"
+    ],
+    "status": "undated",
+    "confidence": "low",
+    "date_basis": "Date exploitable non établie pour la source de la fiche ; acteur conservé hors des séries graphiques.",
+    "summary": "Anne Le Hénanff pilote des actions nationales sur les data centers ; son soutien personnel spécifique à Escaudain n’est pas établi.",
+    "stance_basis": "Catégorie de position issue de la fiche actuelle, non datation du début de l'opinion."
+  },
+  {
+    "id": "timeline_escaudain_0021",
+    "actor_id": "actor_0021",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "category": "elus",
+    "scope": "context",
+    "stance": "neutral",
+    "source_ids": [
+      "source_0007"
+    ],
+    "evidence_ids": [
+      "evidence_0013"
+    ],
+    "status": "undated",
+    "confidence": "low",
+    "date_basis": "Date exploitable non établie pour la source de la fiche ; acteur conservé hors des séries graphiques.",
+    "summary": "Roland Lescure intervient dans le cadrage national de la filière, sans prise de position locale précise documentée ici.",
+    "stance_basis": "Catégorie de position issue de la fiche actuelle, non datation du début de l'opinion."
+  },
+  {
+    "id": "timeline_escaudain_0022",
+    "actor_id": "actor_0022",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "category": "institutions",
+    "scope": "context",
+    "stance": "neutral",
+    "source_ids": [
+      "source_0007"
+    ],
+    "evidence_ids": [
+      "evidence_0014"
+    ],
+    "status": "undated",
+    "confidence": "low",
+    "date_basis": "Date exploitable non établie pour la source de la fiche ; acteur conservé hors des séries graphiques.",
+    "summary": "La DGE participe à la task force de l’État sur les data centers ; l’existence d’un contrat local Data4/DGE n’est pas documentée.",
+    "stance_basis": "Catégorie de position issue de la fiche actuelle, non datation du début de l'opinion."
+  },
+  {
+    "id": "timeline_escaudain_0023",
+    "actor_id": "actor_0023",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "category": "institutions",
+    "scope": "context",
+    "stance": "neutral",
+    "source_ids": [
+      "source_0007"
+    ],
+    "evidence_ids": [
+      "evidence_0015"
+    ],
+    "status": "undated",
+    "confidence": "low",
+    "date_basis": "Date exploitable non établie pour la source de la fiche ; acteur conservé hors des séries graphiques.",
+    "summary": "Business France fait partie de la task force nationale ; son rôle contractuel propre à Escaudain n’est pas prouvé.",
+    "stance_basis": "Catégorie de position issue de la fiche actuelle, non datation du début de l'opinion."
+  },
+  {
+    "id": "timeline_escaudain_0024",
+    "actor_id": "actor_0024",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "category": "elus",
+    "scope": "context",
+    "stance": "neutral",
+    "source_ids": [
+      "source_0007"
+    ],
+    "evidence_ids": [
+      "evidence_0016"
+    ],
+    "status": "undated",
+    "confidence": "low",
+    "date_basis": "Date exploitable non établie pour la source de la fiche ; acteur conservé hors des séries graphiques.",
+    "summary": "François Bayrou avait présenté des sites favorables aux data centers dans le cadre national, sans prise de position individuelle documentée sur Escaudain.",
+    "stance_basis": "Catégorie de position issue de la fiche actuelle, non datation du début de l'opinion."
+  },
+  {
+    "id": "timeline_escaudain_0042",
+    "actor_id": "actor_0042",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "category": "entreprises",
+    "scope": "context",
+    "stance": "neutral",
+    "source_ids": [
+      "source_0024"
+    ],
+    "evidence_ids": [
+      "evidence_0020"
+    ],
+    "status": "undated",
+    "confidence": "low",
+    "date_basis": "Date exploitable non établie pour la source de la fiche ; acteur conservé hors des séries graphiques.",
+    "summary": "Louis Blanchot livre une analyse critique générale des ratios d’emplois des hyperscalers ; aucune opposition formelle au campus n’est prouvée.",
+    "stance_basis": "Catégorie de position issue de la fiche actuelle, non datation du début de l'opinion."
+  },
+  {
+    "id": "timeline_escaudain_0043",
+    "actor_id": "actor_0043",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "category": "entreprises",
+    "scope": "context",
+    "stance": "neutral",
+    "source_ids": [
+      "source_0029"
+    ],
+    "evidence_ids": [
+      "evidence_0021"
+    ],
+    "status": "undated",
+    "confidence": "low",
+    "date_basis": "Date exploitable non établie pour la source de la fiche ; acteur conservé hors des séries graphiques.",
+    "summary": "Nebius est présent sur un autre projet régional à Béthune ; aucun rôle dans le campus Data4 d’Escaudain n’est établi.",
+    "stance_basis": "Catégorie de position issue de la fiche actuelle, non datation du début de l'opinion."
+  },
+  {
+    "id": "timeline_escaudain_0045",
+    "actor_id": "actor_0045",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "category": "elus",
+    "scope": "context",
+    "stance": "neutral",
+    "source_ids": [
+      "source_0015"
+    ],
+    "evidence_ids": [
+      "evidence_0022"
+    ],
+    "status": "undated",
+    "confidence": "low",
+    "date_basis": "Date exploitable non établie pour la source de la fiche ; acteur conservé hors des séries graphiques.",
+    "summary": "Xavier Bertrand valorise la dynamique IA des Hauts-de-France, sans qu’une position personnelle sur les modalités du campus soit démontrée.",
+    "stance_basis": "Catégorie de position issue de la fiche actuelle, non datation du début de l'opinion."
+  },
+  {
+    "id": "timeline_escaudain_0047",
+    "actor_id": "actor_0047",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "category": "elus",
+    "scope": "context",
+    "stance": "neutral",
+    "source_ids": [
+      "source_0007"
+    ],
+    "evidence_ids": [
+      "evidence_0024"
+    ],
+    "status": "undated",
+    "confidence": "low",
+    "date_basis": "Date exploitable non établie pour la source de la fiche ; acteur conservé hors des séries graphiques.",
+    "summary": "Emmanuel Macron promeut les grands projets français de data centers dans le cadre Choose France, sans position locale spécifique établie ici.",
+    "stance_basis": "Catégorie de position issue de la fiche actuelle, non datation du début de l'opinion."
+  }
+]

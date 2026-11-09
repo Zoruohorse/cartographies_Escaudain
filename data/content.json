@@ -1,0 +1,202 @@
+{
+  "project_status": "Au 9 novembre 2026, l'enquête publique PLUi est annoncée du 10 novembre au 10 décembre ; aucune conclusion n'est présumée.",
+  "method": "Chronologie établie à partir des preuves et URL présentes dans le dépôt.",
+  "milestones": [
+    {
+      "id": "milestone_escaudain_001",
+      "date": "2025-12-09",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Annonce publique du projet des Soufflantes",
+      "details": "La Porte du Hainaut présente la reconversion de l'ancienne friche Usinor en campus numérique et évoque le dimensionnement électrique et une mise en service à partir de 2030.",
+      "evidence_ids": [
+        "evidence_0040",
+        "evidence_0043",
+        "evidence_0044"
+      ]
+    },
+    {
+      "id": "milestone_escaudain_002",
+      "date": "2025-12-15",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Choix du consortium Brookfield–BT Immo–Data4",
+      "details": "La presse identifie le consortium retenu. Sélection commerciale distincte des autorisations administratives futures.",
+      "evidence_ids": [
+        "evidence_0047",
+        "evidence_0005",
+        "evidence_0006"
+      ]
+    },
+    {
+      "id": "milestone_escaudain_003",
+      "date": "2026-03-22",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Élections municipales : nouvelle maire d’Escaudain",
+      "details": "Catherine Mercier-Dhennain remporte le scrutin ; Bruno Saligot n'est plus maire. Aucun soutien ou rejet du projet imputé à la nouvelle élue.",
+      "evidence_ids": [
+        "evidence_0033"
+      ]
+    },
+    {
+      "id": "milestone_escaudain_004",
+      "date": "2026-05-04",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Ouverture de la concertation du PLUi",
+      "details": "Début de la concertation sur la modification n° 3 du PLUi, site Les Soufflantes, en amont de l’enquête publique.",
+      "evidence_ids": [
+        "evidence_0035"
+      ]
+    },
+    {
+      "id": "milestone_escaudain_005",
+      "date": "2026-06-04",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Fin de la concertation du PLUi",
+      "details": "Fin de la période du 4 mai au 4 juin 2026 ; le sens des contributions éventuelles n'est pas inféré.",
+      "evidence_ids": [
+        "evidence_0035"
+      ]
+    },
+    {
+      "id": "milestone_escaudain_006",
+      "date": "2026-06-12",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Confirmation officielle du projet Data4",
+      "details": "Data4 confirme quatre data centers, 33 ha, 5 Md€ annoncés, 700 MW bruts visés et un pôle de formation envisagé.",
+      "evidence_ids": [
+        "evidence_0007",
+        "evidence_0038",
+        "evidence_0039",
+        "evidence_0042"
+      ]
+    },
+    {
+      "id": "milestone_escaudain_007",
+      "date": "2026-06-19",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Enquête Mediacités sur le choix du consortium",
+      "details": "Le média examine la sélection de Data4 et les promesses économiques et électriques. Une enquête journalistique ne vaut pas preuve d'opposition locale.",
+      "evidence_ids": [
+        "evidence_0045"
+      ]
+    },
+    {
+      "id": "milestone_escaudain_008",
+      "date": "2026-10-12",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Arrêté organisant l’enquête publique",
+      "details": "Arrêté n° A26754 relatif à la modification n° 3 du PLUi, mentionné dans l’avis de l’agglomération.",
+      "evidence_ids": [
+        "evidence_0036"
+      ],
+      "date_basis": "Date de signature de l'acte administratif, publiée dans l'avis du 23 octobre."
+    },
+    {
+      "id": "milestone_escaudain_009",
+      "date": "2026-10-23",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Publication des modalités de l’enquête",
+      "details": "La Porte du Hainaut publie les dates, modalités de participation et permanences du commissaire enquêteur.",
+      "evidence_ids": [
+        "evidence_0036"
+      ]
+    },
+    {
+      "id": "milestone_escaudain_010",
+      "date": "2026-11-10",
+      "period_precision": "day",
+      "status": "scheduled",
+      "title": "Début prévu de l’enquête publique PLUi",
+      "details": "Ouverture annoncée à 9 h le 10 novembre 2026 ; aucune conclusion anticipée au 9 novembre.",
+      "evidence_ids": [
+        "evidence_0036"
+      ]
+    },
+    {
+      "id": "milestone_escaudain_011",
+      "date": "2026-12-10",
+      "period_precision": "day",
+      "status": "scheduled",
+      "title": "Fin prévue de l’enquête publique PLUi",
+      "details": "Clôture annoncée à 17 h le 10 décembre 2026 ; conclusions du commissaire enquêteur à suivre.",
+      "evidence_ids": [
+        "evidence_0036"
+      ]
+    },
+    {
+      "id": "milestone_escaudain_012",
+      "date": "2030",
+      "period_precision": "year",
+      "status": "forecast",
+      "title": "Première mise en service envisagée",
+      "details": "Échéance prévisionnelle communiquée par l’agglomération ; ne prouve ni achèvement des travaux ni raccordement réalisé.",
+      "evidence_ids": [
+        "evidence_0043"
+      ]
+    }
+  ],
+  "fact_sheet": [
+    {
+      "label": "Consortium retenu",
+      "value": "Data4, Brookfield, BT Immo",
+      "qualifier": "Sélection en décembre 2025 ; pas autorisation d'exploiter.",
+      "evidence_ids": [
+        "evidence_0047",
+        "evidence_0005",
+        "evidence_0006"
+      ]
+    },
+    {
+      "label": "Investissement initial annoncé",
+      "value": "5 Md€",
+      "qualifier": "Data4, 12 juin 2026 ; l'agglomération évoque 10 Md€ pour un périmètre non éclairci.",
+      "evidence_ids": [
+        "evidence_0038",
+        "evidence_0037"
+      ]
+    },
+    {
+      "label": "Puissance brute visée",
+      "value": "700 MW",
+      "qualifier": "À terme ; distincte de la puissance IT et de la disponibilité électrique livrée.",
+      "evidence_ids": [
+        "evidence_0044",
+        "evidence_0009"
+      ]
+    },
+    {
+      "label": "Surfaces documentées",
+      "value": "33 / 36 / 38 ha",
+      "qualifier": "Campus / modification PLUi / friche industrielle.",
+      "evidence_ids": [
+        "evidence_0038",
+        "evidence_0035",
+        "evidence_0040"
+      ]
+    },
+    {
+      "label": "Emplois annoncés",
+      "value": "2 400 régionaux à terme",
+      "qualifier": "Prévision économique, pas effectifs constatés sur le site.",
+      "evidence_ids": [
+        "evidence_0042"
+      ]
+    },
+    {
+      "label": "Échéance administrative immédiate",
+      "value": "10 novembre – 10 décembre 2026",
+      "qualifier": "Enquête publique PLUi prévue, dont le résultat reste inconnu.",
+      "evidence_ids": [
+        "evidence_0036"
+      ]
+    }
+  ]
+}

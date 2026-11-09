@@ -438,5 +438,60 @@
     "source_location": "Article du 22 décembre 2025",
     "published_at": "2025-12-22",
     "accessed_at": "2026-11-05"
+  },
+  {
+    "id": "evidence_escaudain_evolution_0008",
+    "type": "documentary_context",
+    "text": "Communauté d’agglomération de La Porte du Hainaut : Annonce institutionnelle de l’agglomération en décembre 2025 : la collectivité porte le projet des Soufflantes.",
+    "source_id": "source_0018",
+    "source_status": "qualified",
+    "published_at": "2025-12-09",
+    "accessed_at": "2026-11-09",
+    "source_location": "Première apparition dans le corpus",
+    "verification_mode": "source_date_context"
+  },
+  {
+    "id": "evidence_escaudain_evolution_0010",
+    "type": "documentary_context",
+    "text": "Brookfield : Le consortium Brookfield–BT Immo–Data4 est mentionné comme retenu dans la presse du 15 décembre 2025.",
+    "source_id": "source_0002",
+    "source_status": "qualified",
+    "published_at": "2025-12-15",
+    "accessed_at": "2026-11-09",
+    "source_location": "Première apparition dans le corpus",
+    "verification_mode": "source_date_context"
+  },
+  {
+    "id": "evidence_escaudain_evolution_0011",
+    "type": "documentary_context",
+    "text": "BT Immo : BT Immo figure dans l'annonce de sélection du consortium du 15 décembre 2025.",
+    "source_id": "source_0002",
+    "source_status": "qualified",
+    "published_at": "2025-12-15",
+    "accessed_at": "2026-11-09",
+    "source_location": "Première apparition dans le corpus",
+    "verification_mode": "source_date_context"
+  },
+  {
+    "id": "evidence_escaudain_evolution_0012",
+    "type": "documentary_context",
+    "text": "Data4 : Data4 est déjà nommé comme lauréat du consortium le 15 décembre 2025 ; sa confirmation officielle date du 12 juin suivant.",
+    "source_id": "source_0002",
+    "source_status": "qualified",
+    "published_at": "2025-12-15",
+    "accessed_at": "2026-11-09",
+    "source_location": "Première apparition dans le corpus",
+    "verification_mode": "source_date_context"
+  },
+  {
+    "id": "evidence_escaudain_evolution_0056",
+    "type": "documentary_context",
+    "text": "Catherine Mercier : Élection municipale du 22 mars 2026 : Catherine Mercier-Dhennain devient maire ; aucune prise de position sur le campus n’est inférée.",
+    "source_id": "source_0022",
+    "source_status": "qualified",
+    "published_at": "2026-03-22",
+    "accessed_at": "2026-11-09",
+    "source_location": "Première apparition dans le corpus",
+    "verification_mode": "source_date_context"
   }
 ]

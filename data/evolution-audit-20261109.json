@@ -1,0 +1,51 @@
+{
+  "date": "2026-11-09",
+  "baseline": {
+    "actors": 58,
+    "claims": 29,
+    "proofs": 44,
+    "sources": 32
+  },
+  "additions": {
+    "new_grievance_themes": 8,
+    "milestones": 12,
+    "facts": 6,
+    "dated_actors": 17,
+    "undated_actors": 10,
+    "direct_dated": 13,
+    "context_dated": 4,
+    "new_evidence": 5
+  },
+  "stance_counts": {
+    "favorable": 10,
+    "opposed": 0,
+    "neutral": 6,
+    "unknown": 1
+  },
+  "excluded_generic": [
+    "actor_0026",
+    "actor_0027",
+    "actor_0028",
+    "actor_0050"
+  ],
+  "undated_actor_ids": [
+    "actor_0016",
+    "actor_0020",
+    "actor_0021",
+    "actor_0022",
+    "actor_0023",
+    "actor_0024",
+    "actor_0042",
+    "actor_0043",
+    "actor_0045",
+    "actor_0047"
+  ],
+  "method": "Toutes les preuves issues des URLs existantes. Aucun opposant local inventé. Les dates sont premières mentions documentaires et non dates d'évolution des opinions.",
+  "warnings": [
+    "5 Md€ Data4 vs 10 Md€ collectivité : périmètre à qualifier.",
+    "700 MW et 2 400 emplois prévisionnels.",
+    "Enquête publique programmée du 10 novembre au 10 décembre 2026.",
+    "Absence d'opposant documenté dans la base ≠ consensus territorial.",
+    "Les acteurs génériques sans identité et le préfet sans preuve de position ne sont pas comptés."
+  ]
+}
